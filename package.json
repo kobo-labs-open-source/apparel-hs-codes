@@ -6,9 +6,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kobolabsresearch/apparel-hs-codes"
+    "url": "https://github.com/kobo-labs-open-source/apparel-hs-codes"
   },
-  "homepage": "https://github.com/kobolabsresearch/apparel-hs-codes",
+  "homepage": "https://kobolabs.io",
   "keywords": [
     "hs-codes",
     "tariff",
