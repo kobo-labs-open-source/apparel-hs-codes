@@ -1,0 +1,149 @@
+{
+  "country": "UK",
+  "currency": "GBP",
+  "source": "UK Global Tariff (UKGT)",
+  "lastUpdated": "2026-01-01",
+  "note": "Rates shown are MFN rates under the UK Global Tariff, which replaced the EU Common External Tariff after Brexit. Preferential rates may apply under UK FTAs (e.g., UK-EU TCA, CPTPP, UK-Australia FTA). The UK simplified many tariff lines from the EU schedule.",
+  "rates": [
+    {
+      "code": "6101.20",
+      "description": "Men's or boys' overcoats, car coats — of cotton, knitted",
+      "dutyRate": "12%",
+      "dutyType": "ad_valorem"
+    },
+    {
+      "code": "6101.30",
+      "description": "Men's or boys' overcoats, car coats — of man-made fibres, knitted",
+      "dutyRate": "12%",
+      "dutyType": "ad_valorem"
+    },
+    {
+      "code": "6104.42",
+      "description": "Women's or girls' dresses — of cotton, knitted",
+      "dutyRate": "12%",
+      "dutyType": "ad_valorem"
+    },
+    {
+      "code": "6104.43",
+      "description": "Women's or girls' dresses — of synthetic fibres, knitted",
+      "dutyRate": "12%",
+      "dutyType": "ad_valorem"
+    },
+    {
+      "code": "6105.10",
+      "description": "Men's or boys' shirts (polo shirts) — of cotton, knitted",
+      "dutyRate": "12%",
+      "dutyType": "ad_valorem"
+    },
+    {
+      "code": "6105.20",
+      "description": "Men's or boys' shirts — of man-made fibres, knitted",
+      "dutyRate": "12%",
+      "dutyType": "ad_valorem"
+    },
+    {
+      "code": "6109.10",
+      "description": "T-shirts, singlets — of cotton, knitted",
+      "dutyRate": "12%",
+      "dutyType": "ad_valorem"
+    },
+    {
+      "code": "6109.90",
+      "description": "T-shirts, singlets — of other textile materials, knitted",
+      "dutyRate": "12%",
+      "dutyType": "ad_valorem"
+    },
+    {
+      "code": "6110.20",
+      "description": "Jerseys, pullovers, cardigans — of cotton, knitted",
+      "dutyRate": "12%",
+      "dutyType": "ad_valorem"
+    },
+    {
+      "code": "6110.30",
+      "description": "Jerseys, pullovers, cardigans — of man-made fibres, knitted",
+      "dutyRate": "12%",
+      "dutyType": "ad_valorem"
+    },
+    {
+      "code": "6110.12",
+      "description": "Jerseys, pullovers — of cashmere, knitted",
+      "dutyRate": "10.2%",
+      "dutyType": "ad_valorem",
+      "notes": "UK reduced the rate on cashmere slightly below the EU level"
+    },
+    {
+      "code": "6203.42",
+      "description": "Men's or boys' trousers, shorts — of cotton, woven",
+      "dutyRate": "12%",
+      "dutyType": "ad_valorem"
+    },
+    {
+      "code": "6203.43",
+      "description": "Men's or boys' trousers, shorts — of synthetic fibres, woven",
+      "dutyRate": "12%",
+      "dutyType": "ad_valorem"
+    },
+    {
+      "code": "6204.42",
+      "description": "Women's or girls' dresses — of cotton, woven",
+      "dutyRate": "12%",
+      "dutyType": "ad_valorem"
+    },
+    {
+      "code": "6204.43",
+      "description": "Women's or girls' dresses — of synthetic fibres, woven",
+      "dutyRate": "12%",
+      "dutyType": "ad_valorem"
+    },
+    {
+      "code": "6204.62",
+      "description": "Women's or girls' trousers, shorts — of cotton, woven",
+      "dutyRate": "12%",
+      "dutyType": "ad_valorem"
+    },
+    {
+      "code": "6205.20",
+      "description": "Men's or boys' shirts — of cotton, woven",
+      "dutyRate": "12%",
+      "dutyType": "ad_valorem"
+    },
+    {
+      "code": "6206.30",
+      "description": "Women's or girls' blouses — of cotton, woven",
+      "dutyRate": "12%",
+      "dutyType": "ad_valorem"
+    },
+    {
+      "code": "6206.10",
+      "description": "Women's or girls' blouses — of silk, woven",
+      "dutyRate": "8%",
+      "dutyType": "ad_valorem"
+    },
+    {
+      "code": "6402.99",
+      "description": "Footwear with rubber/plastics upper and sole — other",
+      "dutyRate": "16%",
+      "dutyType": "ad_valorem",
+      "notes": "UK footwear rates are comparable to EU levels"
+    },
+    {
+      "code": "6403.99",
+      "description": "Footwear with leather upper, rubber/plastics sole — other",
+      "dutyRate": "8%",
+      "dutyType": "ad_valorem"
+    },
+    {
+      "code": "6404.11",
+      "description": "Sports footwear with textile uppers",
+      "dutyRate": "16.9%",
+      "dutyType": "ad_valorem"
+    },
+    {
+      "code": "6505.00",
+      "description": "Hats and headgear, knitted or of textile fabric",
+      "dutyRate": "2.7%",
+      "dutyType": "ad_valorem"
+    }
+  ]
+}

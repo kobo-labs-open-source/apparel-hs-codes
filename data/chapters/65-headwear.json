@@ -1,0 +1,113 @@
+{
+  "chapter": 65,
+  "title": "Headgear and parts thereof",
+  "notes": "This chapter covers hats, caps, and other headgear. Heading 6503 is not used (reserved). Safety headgear (e.g., hard hats, crash helmets) is generally classified under heading 6506.",
+  "headings": [
+    {
+      "code": "6501",
+      "description": "Hat-forms, hat bodies and hoods of felt, neither blocked to shape nor with made brims; plateaux and manchons (including slit manchons), of felt",
+      "level": "heading",
+      "children": [
+        {
+          "code": "6501.00",
+          "description": "Hat-forms, hat bodies and hoods of felt; plateaux and manchons of felt",
+          "level": "subheading",
+          "keywords": ["hat form", "hat body", "hood", "felt", "plateau", "manchon", "hat blank", "millinery"],
+          "commonGarments": ["felt hat body", "felt hat blank", "millinery hood"],
+          "notes": "Unfinished felt forms for hat making. These are intermediate products, not finished hats."
+        }
+      ]
+    },
+    {
+      "code": "6502",
+      "description": "Hat-shapes, plaited or made by assembling strips of any material, neither blocked to shape, nor with made brims, nor lined, nor trimmed",
+      "level": "heading",
+      "children": [
+        {
+          "code": "6502.00",
+          "description": "Hat-shapes, plaited or assembled from strips",
+          "level": "subheading",
+          "keywords": ["hat shape", "straw hat blank", "plaited", "braided", "hat body", "millinery"],
+          "commonGarments": ["straw hat body", "plaited hat shape", "braided hat blank"],
+          "notes": "Unfinished plaited/braided hat forms. Includes straw, palm leaf, and similar materials."
+        }
+      ]
+    },
+    {
+      "code": "6504",
+      "description": "Hats and other headgear, plaited or made by assembling strips of any material, whether or not lined or trimmed",
+      "level": "heading",
+      "children": [
+        {
+          "code": "6504.00",
+          "description": "Hats and other headgear, plaited or assembled from strips",
+          "level": "subheading",
+          "keywords": ["straw hat", "panama hat", "sun hat", "beach hat", "raffia hat", "plaited", "woven"],
+          "commonGarments": ["straw sun hat", "Panama hat", "raffia beach hat", "palm leaf hat"],
+          "notes": "Finished hats made from plaited or braided strips. Classic Panama hats are classified here."
+        }
+      ]
+    },
+    {
+      "code": "6505",
+      "description": "Hats and other headgear, knitted or crocheted, or made up from lace, felt or other textile fabric, in the piece (but not in strips), whether or not lined or trimmed; hair-nets of any material, whether or not lined or trimmed",
+      "level": "heading",
+      "children": [
+        {
+          "code": "6505.00",
+          "description": "Hats and headgear, knitted or crocheted, or made from textile fabric; hair-nets",
+          "level": "subheading",
+          "keywords": ["beanie", "knit cap", "skullcap", "beret", "felt hat", "fedora", "baseball cap", "snapback", "trucker hat", "bucket hat", "hair net", "knitted", "textile"],
+          "commonGarments": ["knitted beanie", "felt fedora", "baseball cap", "bucket hat", "beret", "snapback cap", "trucker hat", "hair net"],
+          "notes": "The most commonly used heading for fashion headwear. Covers knitted hats (beanies), felt hats (fedoras, trilbys), and fabric hats (baseball caps, bucket hats)."
+        }
+      ]
+    },
+    {
+      "code": "6506",
+      "description": "Other headgear, whether or not lined or trimmed",
+      "level": "heading",
+      "children": [
+        {
+          "code": "6506.10",
+          "description": "Safety headgear",
+          "level": "subheading",
+          "keywords": ["hard hat", "safety helmet", "crash helmet", "construction helmet", "protective headgear"],
+          "commonGarments": ["construction hard hat", "industrial safety helmet"],
+          "notes": "Does not include sports helmets classified elsewhere (e.g., bicycle helmets may be here or under other headings depending on country)"
+        },
+        {
+          "code": "6506.91",
+          "description": "Other — of rubber or plastics",
+          "level": "subheading",
+          "keywords": ["hat", "headgear", "rain hat", "rubber", "plastics", "visor"],
+          "commonGarments": ["plastic rain hat", "PVC sou'wester", "plastic visor"],
+          "notes": null
+        },
+        {
+          "code": "6506.99",
+          "description": "Other — of other materials",
+          "level": "subheading",
+          "keywords": ["hat", "headgear", "leather hat", "fur hat", "metal helmet"],
+          "commonGarments": ["leather hat", "fur hat"],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "code": "6507",
+      "description": "Head-bands, linings, covers, hat foundations, hat frames, peaks (visors) and chin straps, for headgear",
+      "level": "heading",
+      "children": [
+        {
+          "code": "6507.00",
+          "description": "Head-bands, linings, covers, hat foundations, hat frames, peaks and chin straps",
+          "level": "subheading",
+          "keywords": ["headband", "hat lining", "hat cover", "hat frame", "peak", "visor", "chin strap", "sweatband", "hat parts"],
+          "commonGarments": ["hat sweatband", "replacement visor peak", "hat lining", "chin strap"],
+          "notes": "Parts and accessories for headgear"
+        }
+      ]
+    }
+  ]
+}

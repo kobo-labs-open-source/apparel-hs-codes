@@ -1,0 +1,1577 @@
+[
+  {
+    "code": "6101.20",
+    "chapter": 61,
+    "description": "Men's or boys' overcoats, car coats, capes, cloaks, anoraks — of cotton, knitted or crocheted",
+    "keywords": ["overcoat", "car coat", "cape", "cloak", "anorak", "windbreaker", "cotton", "knitted", "men"],
+    "category": "outerwear",
+    "construction": "knitted",
+    "gender": "men"
+  },
+  {
+    "code": "6101.30",
+    "chapter": 61,
+    "description": "Men's or boys' overcoats, car coats, capes, cloaks, anoraks — of man-made fibres, knitted or crocheted",
+    "keywords": ["overcoat", "car coat", "anorak", "windbreaker", "polyester", "nylon", "fleece", "knitted", "men"],
+    "category": "outerwear",
+    "construction": "knitted",
+    "gender": "men"
+  },
+  {
+    "code": "6101.90",
+    "chapter": 61,
+    "description": "Men's or boys' overcoats, car coats, capes, cloaks, anoraks — of other textile materials, knitted or crocheted",
+    "keywords": ["overcoat", "car coat", "cape", "wool", "silk", "cashmere", "knitted", "men"],
+    "category": "outerwear",
+    "construction": "knitted",
+    "gender": "men"
+  },
+  {
+    "code": "6102.10",
+    "chapter": 61,
+    "description": "Women's or girls' overcoats, car coats, capes, cloaks, anoraks — of wool or fine animal hair, knitted or crocheted",
+    "keywords": ["overcoat", "car coat", "cape", "cloak", "wool", "cashmere", "knitted", "women"],
+    "category": "outerwear",
+    "construction": "knitted",
+    "gender": "women"
+  },
+  {
+    "code": "6102.20",
+    "chapter": 61,
+    "description": "Women's or girls' overcoats, car coats, capes, cloaks, anoraks — of cotton, knitted or crocheted",
+    "keywords": ["overcoat", "car coat", "cape", "cloak", "anorak", "cotton", "knitted", "women"],
+    "category": "outerwear",
+    "construction": "knitted",
+    "gender": "women"
+  },
+  {
+    "code": "6102.30",
+    "chapter": 61,
+    "description": "Women's or girls' overcoats, car coats, capes, cloaks, anoraks — of man-made fibres, knitted or crocheted",
+    "keywords": ["overcoat", "car coat", "anorak", "windbreaker", "polyester", "nylon", "knitted", "women"],
+    "category": "outerwear",
+    "construction": "knitted",
+    "gender": "women"
+  },
+  {
+    "code": "6102.90",
+    "chapter": 61,
+    "description": "Women's or girls' overcoats, car coats, capes, cloaks, anoraks — of other textile materials, knitted or crocheted",
+    "keywords": ["overcoat", "car coat", "cape", "silk", "linen", "knitted", "women"],
+    "category": "outerwear",
+    "construction": "knitted",
+    "gender": "women"
+  },
+  {
+    "code": "6103.10",
+    "chapter": 61,
+    "description": "Men's or boys' suits, knitted or crocheted",
+    "keywords": ["suit", "two-piece", "three-piece", "knitted", "men"],
+    "category": "suits",
+    "construction": "knitted",
+    "gender": "men"
+  },
+  {
+    "code": "6103.22",
+    "chapter": 61,
+    "description": "Men's or boys' ensembles — of cotton, knitted or crocheted",
+    "keywords": ["ensemble", "matching set", "cotton", "knitted", "men"],
+    "category": "suits",
+    "construction": "knitted",
+    "gender": "men"
+  },
+  {
+    "code": "6103.23",
+    "chapter": 61,
+    "description": "Men's or boys' ensembles — of synthetic fibres, knitted or crocheted",
+    "keywords": ["ensemble", "matching set", "polyester", "nylon", "knitted", "men"],
+    "category": "suits",
+    "construction": "knitted",
+    "gender": "men"
+  },
+  {
+    "code": "6103.29",
+    "chapter": 61,
+    "description": "Men's or boys' ensembles — of other textile materials, knitted or crocheted",
+    "keywords": ["ensemble", "matching set", "wool", "silk", "knitted", "men"],
+    "category": "suits",
+    "construction": "knitted",
+    "gender": "men"
+  },
+  {
+    "code": "6103.31",
+    "chapter": 61,
+    "description": "Men's or boys' jackets and blazers — of wool or fine animal hair, knitted or crocheted",
+    "keywords": ["jacket", "blazer", "sport coat", "wool", "cashmere", "knitted", "men"],
+    "category": "jackets",
+    "construction": "knitted",
+    "gender": "men"
+  },
+  {
+    "code": "6103.32",
+    "chapter": 61,
+    "description": "Men's or boys' jackets and blazers — of cotton, knitted or crocheted",
+    "keywords": ["jacket", "blazer", "cotton", "jersey", "knitted", "men"],
+    "category": "jackets",
+    "construction": "knitted",
+    "gender": "men"
+  },
+  {
+    "code": "6103.33",
+    "chapter": 61,
+    "description": "Men's or boys' jackets and blazers — of synthetic fibres, knitted or crocheted",
+    "keywords": ["jacket", "blazer", "polyester", "nylon", "knitted", "men"],
+    "category": "jackets",
+    "construction": "knitted",
+    "gender": "men"
+  },
+  {
+    "code": "6103.39",
+    "chapter": 61,
+    "description": "Men's or boys' jackets and blazers — of other textile materials, knitted or crocheted",
+    "keywords": ["jacket", "blazer", "silk", "linen", "knitted", "men"],
+    "category": "jackets",
+    "construction": "knitted",
+    "gender": "men"
+  },
+  {
+    "code": "6103.41",
+    "chapter": 61,
+    "description": "Men's or boys' trousers, breeches and shorts — of wool or fine animal hair, knitted or crocheted",
+    "keywords": ["trousers", "pants", "shorts", "breeches", "wool", "knitted", "men"],
+    "category": "bottoms",
+    "construction": "knitted",
+    "gender": "men"
+  },
+  {
+    "code": "6103.42",
+    "chapter": 61,
+    "description": "Men's or boys' trousers, breeches and shorts — of cotton, knitted or crocheted",
+    "keywords": ["trousers", "pants", "shorts", "joggers", "sweatpants", "cotton", "knitted", "men"],
+    "category": "bottoms",
+    "construction": "knitted",
+    "gender": "men"
+  },
+  {
+    "code": "6103.43",
+    "chapter": 61,
+    "description": "Men's or boys' trousers, breeches and shorts — of synthetic fibres, knitted or crocheted",
+    "keywords": ["trousers", "pants", "shorts", "joggers", "polyester", "nylon", "knitted", "men"],
+    "category": "bottoms",
+    "construction": "knitted",
+    "gender": "men"
+  },
+  {
+    "code": "6103.49",
+    "chapter": 61,
+    "description": "Men's or boys' trousers, breeches and shorts — of other textile materials, knitted or crocheted",
+    "keywords": ["trousers", "pants", "shorts", "silk", "linen", "knitted", "men"],
+    "category": "bottoms",
+    "construction": "knitted",
+    "gender": "men"
+  },
+  {
+    "code": "6104.13",
+    "chapter": 61,
+    "description": "Women's or girls' suits — of synthetic fibres, knitted or crocheted",
+    "keywords": ["suit", "two-piece", "polyester", "knitted", "women"],
+    "category": "suits",
+    "construction": "knitted",
+    "gender": "women"
+  },
+  {
+    "code": "6104.19",
+    "chapter": 61,
+    "description": "Women's or girls' suits — of other textile materials, knitted or crocheted",
+    "keywords": ["suit", "two-piece", "cotton", "wool", "silk", "knitted", "women"],
+    "category": "suits",
+    "construction": "knitted",
+    "gender": "women"
+  },
+  {
+    "code": "6104.22",
+    "chapter": 61,
+    "description": "Women's or girls' ensembles — of cotton, knitted or crocheted",
+    "keywords": ["ensemble", "matching set", "co-ord", "cotton", "knitted", "women"],
+    "category": "suits",
+    "construction": "knitted",
+    "gender": "women"
+  },
+  {
+    "code": "6104.23",
+    "chapter": 61,
+    "description": "Women's or girls' ensembles — of synthetic fibres, knitted or crocheted",
+    "keywords": ["ensemble", "matching set", "activewear set", "polyester", "knitted", "women"],
+    "category": "suits",
+    "construction": "knitted",
+    "gender": "women"
+  },
+  {
+    "code": "6104.29",
+    "chapter": 61,
+    "description": "Women's or girls' ensembles — of other textile materials, knitted or crocheted",
+    "keywords": ["ensemble", "matching set", "twin set", "wool", "cashmere", "knitted", "women"],
+    "category": "suits",
+    "construction": "knitted",
+    "gender": "women"
+  },
+  {
+    "code": "6104.31",
+    "chapter": 61,
+    "description": "Women's or girls' jackets and blazers — of wool or fine animal hair, knitted or crocheted",
+    "keywords": ["jacket", "blazer", "wool", "cashmere", "knitted", "women"],
+    "category": "jackets",
+    "construction": "knitted",
+    "gender": "women"
+  },
+  {
+    "code": "6104.32",
+    "chapter": 61,
+    "description": "Women's or girls' jackets and blazers — of cotton, knitted or crocheted",
+    "keywords": ["jacket", "blazer", "cotton", "jersey", "knitted", "women"],
+    "category": "jackets",
+    "construction": "knitted",
+    "gender": "women"
+  },
+  {
+    "code": "6104.33",
+    "chapter": 61,
+    "description": "Women's or girls' jackets and blazers — of synthetic fibres, knitted or crocheted",
+    "keywords": ["jacket", "blazer", "polyester", "nylon", "knitted", "women"],
+    "category": "jackets",
+    "construction": "knitted",
+    "gender": "women"
+  },
+  {
+    "code": "6104.39",
+    "chapter": 61,
+    "description": "Women's or girls' jackets and blazers — of other textile materials, knitted or crocheted",
+    "keywords": ["jacket", "blazer", "silk", "linen", "knitted", "women"],
+    "category": "jackets",
+    "construction": "knitted",
+    "gender": "women"
+  },
+  {
+    "code": "6104.41",
+    "chapter": 61,
+    "description": "Women's or girls' dresses — of wool or fine animal hair, knitted or crocheted",
+    "keywords": ["dress", "frock", "sweater dress", "wool", "cashmere", "knitted", "women"],
+    "category": "dresses",
+    "construction": "knitted",
+    "gender": "women"
+  },
+  {
+    "code": "6104.42",
+    "chapter": 61,
+    "description": "Women's or girls' dresses — of cotton, knitted or crocheted",
+    "keywords": ["dress", "frock", "jersey dress", "t-shirt dress", "cotton", "knitted", "women"],
+    "category": "dresses",
+    "construction": "knitted",
+    "gender": "women"
+  },
+  {
+    "code": "6104.43",
+    "chapter": 61,
+    "description": "Women's or girls' dresses — of synthetic fibres, knitted or crocheted",
+    "keywords": ["dress", "frock", "stretch dress", "polyester", "nylon", "knitted", "women"],
+    "category": "dresses",
+    "construction": "knitted",
+    "gender": "women"
+  },
+  {
+    "code": "6104.44",
+    "chapter": 61,
+    "description": "Women's or girls' dresses — of artificial fibres, knitted or crocheted",
+    "keywords": ["dress", "frock", "rayon", "viscose", "modal", "knitted", "women"],
+    "category": "dresses",
+    "construction": "knitted",
+    "gender": "women"
+  },
+  {
+    "code": "6104.49",
+    "chapter": 61,
+    "description": "Women's or girls' dresses — of other textile materials, knitted or crocheted",
+    "keywords": ["dress", "frock", "silk", "linen", "knitted", "women"],
+    "category": "dresses",
+    "construction": "knitted",
+    "gender": "women"
+  },
+  {
+    "code": "6104.51",
+    "chapter": 61,
+    "description": "Women's or girls' skirts and divided skirts — of wool or fine animal hair, knitted or crocheted",
+    "keywords": ["skirt", "culottes", "wool", "knitted", "women"],
+    "category": "bottoms",
+    "construction": "knitted",
+    "gender": "women"
+  },
+  {
+    "code": "6104.52",
+    "chapter": 61,
+    "description": "Women's or girls' skirts and divided skirts — of cotton, knitted or crocheted",
+    "keywords": ["skirt", "culottes", "jersey skirt", "cotton", "knitted", "women"],
+    "category": "bottoms",
+    "construction": "knitted",
+    "gender": "women"
+  },
+  {
+    "code": "6104.53",
+    "chapter": 61,
+    "description": "Women's or girls' skirts and divided skirts — of synthetic fibres, knitted or crocheted",
+    "keywords": ["skirt", "culottes", "polyester", "knitted", "women"],
+    "category": "bottoms",
+    "construction": "knitted",
+    "gender": "women"
+  },
+  {
+    "code": "6104.59",
+    "chapter": 61,
+    "description": "Women's or girls' skirts and divided skirts — of other textile materials, knitted or crocheted",
+    "keywords": ["skirt", "culottes", "silk", "linen", "knitted", "women"],
+    "category": "bottoms",
+    "construction": "knitted",
+    "gender": "women"
+  },
+  {
+    "code": "6104.61",
+    "chapter": 61,
+    "description": "Women's or girls' trousers, breeches and shorts — of wool or fine animal hair, knitted or crocheted",
+    "keywords": ["trousers", "pants", "shorts", "wool", "knitted", "women"],
+    "category": "bottoms",
+    "construction": "knitted",
+    "gender": "women"
+  },
+  {
+    "code": "6104.62",
+    "chapter": 61,
+    "description": "Women's or girls' trousers, breeches and shorts — of cotton, knitted or crocheted",
+    "keywords": ["trousers", "pants", "shorts", "leggings", "joggers", "cotton", "knitted", "women"],
+    "category": "bottoms",
+    "construction": "knitted",
+    "gender": "women"
+  },
+  {
+    "code": "6104.63",
+    "chapter": 61,
+    "description": "Women's or girls' trousers, breeches and shorts — of synthetic fibres, knitted or crocheted",
+    "keywords": ["trousers", "pants", "shorts", "leggings", "yoga pants", "polyester", "nylon", "spandex", "knitted", "women"],
+    "category": "bottoms",
+    "construction": "knitted",
+    "gender": "women"
+  },
+  {
+    "code": "6104.69",
+    "chapter": 61,
+    "description": "Women's or girls' trousers, breeches and shorts — of other textile materials, knitted or crocheted",
+    "keywords": ["trousers", "pants", "shorts", "silk", "linen", "knitted", "women"],
+    "category": "bottoms",
+    "construction": "knitted",
+    "gender": "women"
+  },
+  {
+    "code": "6105.10",
+    "chapter": 61,
+    "description": "Men's or boys' shirts — of cotton, knitted or crocheted",
+    "keywords": ["shirt", "polo", "polo shirt", "rugby shirt", "henley", "cotton", "knitted", "men"],
+    "category": "tops",
+    "construction": "knitted",
+    "gender": "men"
+  },
+  {
+    "code": "6105.20",
+    "chapter": 61,
+    "description": "Men's or boys' shirts — of man-made fibres, knitted or crocheted",
+    "keywords": ["shirt", "polo", "polo shirt", "performance polo", "polyester", "nylon", "knitted", "men"],
+    "category": "tops",
+    "construction": "knitted",
+    "gender": "men"
+  },
+  {
+    "code": "6105.90",
+    "chapter": 61,
+    "description": "Men's or boys' shirts — of other textile materials, knitted or crocheted",
+    "keywords": ["shirt", "polo", "merino", "silk", "wool", "knitted", "men"],
+    "category": "tops",
+    "construction": "knitted",
+    "gender": "men"
+  },
+  {
+    "code": "6106.10",
+    "chapter": 61,
+    "description": "Women's or girls' blouses, shirts and shirt-blouses — of cotton, knitted or crocheted",
+    "keywords": ["blouse", "shirt", "polo", "cotton", "knitted", "women"],
+    "category": "tops",
+    "construction": "knitted",
+    "gender": "women"
+  },
+  {
+    "code": "6106.20",
+    "chapter": 61,
+    "description": "Women's or girls' blouses, shirts and shirt-blouses — of man-made fibres, knitted or crocheted",
+    "keywords": ["blouse", "shirt", "polo", "polyester", "nylon", "knitted", "women"],
+    "category": "tops",
+    "construction": "knitted",
+    "gender": "women"
+  },
+  {
+    "code": "6106.90",
+    "chapter": 61,
+    "description": "Women's or girls' blouses, shirts and shirt-blouses — of other textile materials, knitted or crocheted",
+    "keywords": ["blouse", "shirt", "silk", "cashmere", "knitted", "women"],
+    "category": "tops",
+    "construction": "knitted",
+    "gender": "women"
+  },
+  {
+    "code": "6107.11",
+    "chapter": 61,
+    "description": "Men's or boys' underpants and briefs — of cotton, knitted or crocheted",
+    "keywords": ["underpants", "briefs", "boxer briefs", "underwear", "trunks", "cotton", "knitted", "men"],
+    "category": "underwear",
+    "construction": "knitted",
+    "gender": "men"
+  },
+  {
+    "code": "6107.12",
+    "chapter": 61,
+    "description": "Men's or boys' underpants and briefs — of man-made fibres, knitted or crocheted",
+    "keywords": ["underpants", "briefs", "boxer briefs", "underwear", "microfibre", "polyester", "nylon", "knitted", "men"],
+    "category": "underwear",
+    "construction": "knitted",
+    "gender": "men"
+  },
+  {
+    "code": "6107.19",
+    "chapter": 61,
+    "description": "Men's or boys' underpants and briefs — of other textile materials, knitted or crocheted",
+    "keywords": ["underpants", "briefs", "underwear", "silk", "modal", "bamboo", "knitted", "men"],
+    "category": "underwear",
+    "construction": "knitted",
+    "gender": "men"
+  },
+  {
+    "code": "6107.21",
+    "chapter": 61,
+    "description": "Men's or boys' nightshirts and pyjamas — of cotton, knitted or crocheted",
+    "keywords": ["nightshirt", "pyjamas", "pajamas", "sleepwear", "cotton", "knitted", "men"],
+    "category": "sleepwear",
+    "construction": "knitted",
+    "gender": "men"
+  },
+  {
+    "code": "6108.21",
+    "chapter": 61,
+    "description": "Women's or girls' briefs and panties — of cotton, knitted or crocheted",
+    "keywords": ["briefs", "panties", "underwear", "knickers", "cotton", "knitted", "women"],
+    "category": "underwear",
+    "construction": "knitted",
+    "gender": "women"
+  },
+  {
+    "code": "6108.22",
+    "chapter": 61,
+    "description": "Women's or girls' briefs and panties — of man-made fibres, knitted or crocheted",
+    "keywords": ["briefs", "panties", "underwear", "thong", "nylon", "microfibre", "knitted", "women"],
+    "category": "underwear",
+    "construction": "knitted",
+    "gender": "women"
+  },
+  {
+    "code": "6108.31",
+    "chapter": 61,
+    "description": "Women's or girls' nightdresses and pyjamas — of cotton, knitted or crocheted",
+    "keywords": ["nightdress", "nightgown", "pyjamas", "pajamas", "sleepwear", "cotton", "knitted", "women"],
+    "category": "sleepwear",
+    "construction": "knitted",
+    "gender": "women"
+  },
+  {
+    "code": "6109.10",
+    "chapter": 61,
+    "description": "T-shirts, singlets and other vests, knitted or crocheted, of cotton",
+    "keywords": ["t-shirt", "tshirt", "tee", "singlet", "vest", "tank top", "undershirt", "cotton", "knitted", "jersey"],
+    "category": "tops",
+    "construction": "knitted",
+    "gender": "unisex"
+  },
+  {
+    "code": "6109.90",
+    "chapter": 61,
+    "description": "T-shirts, singlets and other vests, knitted or crocheted, of other textile materials",
+    "keywords": ["t-shirt", "tshirt", "tee", "singlet", "vest", "tank top", "polyester", "nylon", "viscose", "bamboo", "knitted"],
+    "category": "tops",
+    "construction": "knitted",
+    "gender": "unisex"
+  },
+  {
+    "code": "6110.11",
+    "chapter": 61,
+    "description": "Jerseys, pullovers, cardigans, waistcoats — of wool, 300g+ per garment, knitted or crocheted",
+    "keywords": ["jersey", "pullover", "sweater", "jumper", "cardigan", "waistcoat", "wool", "heavy", "knitted"],
+    "category": "knitwear",
+    "construction": "knitted",
+    "gender": "unisex"
+  },
+  {
+    "code": "6110.12",
+    "chapter": 61,
+    "description": "Jerseys, pullovers, cardigans, waistcoats — of cashmere, knitted or crocheted",
+    "keywords": ["jersey", "pullover", "sweater", "jumper", "cardigan", "cashmere", "knitted"],
+    "category": "knitwear",
+    "construction": "knitted",
+    "gender": "unisex"
+  },
+  {
+    "code": "6110.19",
+    "chapter": 61,
+    "description": "Jerseys, pullovers, cardigans, waistcoats — of other wool or fine animal hair, knitted or crocheted",
+    "keywords": ["jersey", "pullover", "sweater", "jumper", "cardigan", "waistcoat", "wool", "alpaca", "mohair", "angora", "merino", "knitted"],
+    "category": "knitwear",
+    "construction": "knitted",
+    "gender": "unisex"
+  },
+  {
+    "code": "6110.20",
+    "chapter": 61,
+    "description": "Jerseys, pullovers, cardigans, waistcoats — of cotton, knitted or crocheted",
+    "keywords": ["jersey", "pullover", "sweater", "jumper", "cardigan", "waistcoat", "hoodie", "sweatshirt", "cotton", "knitted"],
+    "category": "knitwear",
+    "construction": "knitted",
+    "gender": "unisex"
+  },
+  {
+    "code": "6110.30",
+    "chapter": 61,
+    "description": "Jerseys, pullovers, cardigans, waistcoats — of man-made fibres, knitted or crocheted",
+    "keywords": ["jersey", "pullover", "sweater", "jumper", "cardigan", "hoodie", "sweatshirt", "fleece", "polyester", "acrylic", "nylon", "knitted"],
+    "category": "knitwear",
+    "construction": "knitted",
+    "gender": "unisex"
+  },
+  {
+    "code": "6110.90",
+    "chapter": 61,
+    "description": "Jerseys, pullovers, cardigans, waistcoats — of other textile materials, knitted or crocheted",
+    "keywords": ["jersey", "pullover", "sweater", "jumper", "cardigan", "silk", "linen", "bamboo", "knitted"],
+    "category": "knitwear",
+    "construction": "knitted",
+    "gender": "unisex"
+  },
+  {
+    "code": "6111.20",
+    "chapter": 61,
+    "description": "Babies' garments and clothing accessories — of cotton, knitted or crocheted",
+    "keywords": ["baby", "infant", "newborn", "onesie", "romper", "bodysuit", "bootees", "cotton", "knitted"],
+    "category": "babywear",
+    "construction": "knitted",
+    "gender": "unisex"
+  },
+  {
+    "code": "6111.30",
+    "chapter": 61,
+    "description": "Babies' garments and clothing accessories — of synthetic fibres, knitted or crocheted",
+    "keywords": ["baby", "infant", "newborn", "onesie", "romper", "fleece", "polyester", "knitted"],
+    "category": "babywear",
+    "construction": "knitted",
+    "gender": "unisex"
+  },
+  {
+    "code": "6111.90",
+    "chapter": 61,
+    "description": "Babies' garments and clothing accessories — of other textile materials, knitted or crocheted",
+    "keywords": ["baby", "infant", "newborn", "wool", "cashmere", "silk", "knitted"],
+    "category": "babywear",
+    "construction": "knitted",
+    "gender": "unisex"
+  },
+  {
+    "code": "6112.11",
+    "chapter": 61,
+    "description": "Track suits — of cotton, knitted or crocheted",
+    "keywords": ["tracksuit", "track suit", "jogging suit", "warm-up suit", "cotton", "knitted"],
+    "category": "activewear",
+    "construction": "knitted",
+    "gender": "unisex"
+  },
+  {
+    "code": "6112.12",
+    "chapter": 61,
+    "description": "Track suits — of synthetic fibres, knitted or crocheted",
+    "keywords": ["tracksuit", "track suit", "jogging suit", "warm-up suit", "polyester", "nylon", "knitted"],
+    "category": "activewear",
+    "construction": "knitted",
+    "gender": "unisex"
+  },
+  {
+    "code": "6112.20",
+    "chapter": 61,
+    "description": "Ski suits, knitted or crocheted",
+    "keywords": ["ski suit", "snow suit", "skiing", "winter sport", "knitted"],
+    "category": "activewear",
+    "construction": "knitted",
+    "gender": "unisex"
+  },
+  {
+    "code": "6112.31",
+    "chapter": 61,
+    "description": "Men's or boys' swimwear — of synthetic fibres, knitted or crocheted",
+    "keywords": ["swimwear", "swim trunks", "swim shorts", "board shorts", "speedos", "polyester", "nylon", "lycra", "knitted", "men"],
+    "category": "swimwear",
+    "construction": "knitted",
+    "gender": "men"
+  },
+  {
+    "code": "6112.41",
+    "chapter": 61,
+    "description": "Women's or girls' swimwear — of synthetic fibres, knitted or crocheted",
+    "keywords": ["swimwear", "swimsuit", "bikini", "one-piece", "bathing suit", "tankini", "polyester", "nylon", "lycra", "spandex", "knitted", "women"],
+    "category": "swimwear",
+    "construction": "knitted",
+    "gender": "women"
+  },
+  {
+    "code": "6113.00",
+    "chapter": 61,
+    "description": "Garments made up of knitted or crocheted fabrics, impregnated, coated, covered or laminated",
+    "keywords": ["coated", "laminated", "rubberised", "plastics", "waterproof", "technical", "knitted"],
+    "category": "outerwear",
+    "construction": "knitted",
+    "gender": "unisex"
+  },
+  {
+    "code": "6114.20",
+    "chapter": 61,
+    "description": "Other garments — of cotton, knitted or crocheted",
+    "keywords": ["garment", "leotard", "bodysuit", "coverall", "costume", "cotton", "knitted"],
+    "category": "other",
+    "construction": "knitted",
+    "gender": "unisex"
+  },
+  {
+    "code": "6114.30",
+    "chapter": 61,
+    "description": "Other garments — of man-made fibres, knitted or crocheted",
+    "keywords": ["garment", "leotard", "bodysuit", "compression", "rash guard", "dancewear", "polyester", "nylon", "spandex", "knitted"],
+    "category": "other",
+    "construction": "knitted",
+    "gender": "unisex"
+  },
+  {
+    "code": "6114.90",
+    "chapter": 61,
+    "description": "Other garments — of other textile materials, knitted or crocheted",
+    "keywords": ["garment", "bodysuit", "silk", "wool", "knitted"],
+    "category": "other",
+    "construction": "knitted",
+    "gender": "unisex"
+  },
+  {
+    "code": "6115.10",
+    "chapter": 61,
+    "description": "Graduated compression hosiery, knitted or crocheted",
+    "keywords": ["compression stockings", "compression socks", "medical hosiery", "graduated compression", "knitted"],
+    "category": "hosiery",
+    "construction": "knitted",
+    "gender": "unisex"
+  },
+  {
+    "code": "6115.21",
+    "chapter": 61,
+    "description": "Pantyhose and tights — of synthetic fibres, less than 67 decitex, knitted or crocheted",
+    "keywords": ["pantyhose", "tights", "sheer", "nylon", "fine denier", "knitted", "women"],
+    "category": "hosiery",
+    "construction": "knitted",
+    "gender": "women"
+  },
+  {
+    "code": "6115.22",
+    "chapter": 61,
+    "description": "Pantyhose and tights — of synthetic fibres, 67 decitex or more, knitted or crocheted",
+    "keywords": ["pantyhose", "tights", "opaque", "nylon", "thick denier", "knitted", "women"],
+    "category": "hosiery",
+    "construction": "knitted",
+    "gender": "women"
+  },
+  {
+    "code": "6115.29",
+    "chapter": 61,
+    "description": "Pantyhose and tights — of other textile materials, knitted or crocheted",
+    "keywords": ["pantyhose", "tights", "cotton", "wool", "knitted", "women"],
+    "category": "hosiery",
+    "construction": "knitted",
+    "gender": "women"
+  },
+  {
+    "code": "6115.30",
+    "chapter": 61,
+    "description": "Women's full-length or knee-length hosiery — less than 67 decitex, knitted or crocheted",
+    "keywords": ["stockings", "knee-highs", "thigh-highs", "sheer", "nylon", "knitted", "women"],
+    "category": "hosiery",
+    "construction": "knitted",
+    "gender": "women"
+  },
+  {
+    "code": "6115.95",
+    "chapter": 61,
+    "description": "Socks and other hosiery — of cotton, knitted or crocheted",
+    "keywords": ["socks", "ankle socks", "crew socks", "athletic socks", "cotton", "knitted"],
+    "category": "hosiery",
+    "construction": "knitted",
+    "gender": "unisex"
+  },
+  {
+    "code": "6115.96",
+    "chapter": 61,
+    "description": "Socks and other hosiery — of synthetic fibres, knitted or crocheted",
+    "keywords": ["socks", "sport socks", "performance socks", "polyester", "nylon", "knitted"],
+    "category": "hosiery",
+    "construction": "knitted",
+    "gender": "unisex"
+  },
+  {
+    "code": "6116.10",
+    "chapter": 61,
+    "description": "Gloves, mittens and mitts — impregnated, coated or covered with plastics or rubber, knitted or crocheted",
+    "keywords": ["gloves", "mittens", "coated", "rubber", "work gloves", "knitted"],
+    "category": "accessories",
+    "construction": "knitted",
+    "gender": "unisex"
+  },
+  {
+    "code": "6116.92",
+    "chapter": 61,
+    "description": "Gloves, mittens and mitts — of cotton, knitted or crocheted",
+    "keywords": ["gloves", "mittens", "cotton", "knitted"],
+    "category": "accessories",
+    "construction": "knitted",
+    "gender": "unisex"
+  },
+  {
+    "code": "6116.93",
+    "chapter": 61,
+    "description": "Gloves, mittens and mitts — of synthetic fibres, knitted or crocheted",
+    "keywords": ["gloves", "mittens", "fleece", "acrylic", "polyester", "touchscreen", "knitted"],
+    "category": "accessories",
+    "construction": "knitted",
+    "gender": "unisex"
+  },
+  {
+    "code": "6117.10",
+    "chapter": 61,
+    "description": "Shawls, scarves, mufflers, mantillas, veils — knitted or crocheted",
+    "keywords": ["shawl", "scarf", "muffler", "snood", "knitted"],
+    "category": "accessories",
+    "construction": "knitted",
+    "gender": "unisex"
+  },
+  {
+    "code": "6117.80",
+    "chapter": 61,
+    "description": "Other made up clothing accessories — knitted or crocheted",
+    "keywords": ["accessories", "tie", "bow tie", "headband", "sweatband", "knitted"],
+    "category": "accessories",
+    "construction": "knitted",
+    "gender": "unisex"
+  },
+  {
+    "code": "6201.20",
+    "chapter": 62,
+    "description": "Men's or boys' overcoats, car coats, capes, cloaks, anoraks — of wool or fine animal hair, woven",
+    "keywords": ["overcoat", "car coat", "cape", "parka", "wool", "cashmere", "woven", "men"],
+    "category": "outerwear",
+    "construction": "woven",
+    "gender": "men"
+  },
+  {
+    "code": "6201.30",
+    "chapter": 62,
+    "description": "Men's or boys' overcoats, car coats, capes, cloaks, anoraks — of cotton, woven",
+    "keywords": ["overcoat", "car coat", "trench coat", "parka", "windbreaker", "cotton", "woven", "men"],
+    "category": "outerwear",
+    "construction": "woven",
+    "gender": "men"
+  },
+  {
+    "code": "6201.40",
+    "chapter": 62,
+    "description": "Men's or boys' overcoats, car coats, capes, cloaks, anoraks — of man-made fibres, woven",
+    "keywords": ["overcoat", "car coat", "anorak", "ski jacket", "parka", "puffer", "windbreaker", "polyester", "nylon", "woven", "men"],
+    "category": "outerwear",
+    "construction": "woven",
+    "gender": "men"
+  },
+  {
+    "code": "6202.11",
+    "chapter": 62,
+    "description": "Women's or girls' overcoats, car coats, capes, cloaks, anoraks — of wool or fine animal hair, woven",
+    "keywords": ["overcoat", "car coat", "cape", "wool", "cashmere", "woven", "women"],
+    "category": "outerwear",
+    "construction": "woven",
+    "gender": "women"
+  },
+  {
+    "code": "6202.12",
+    "chapter": 62,
+    "description": "Women's or girls' overcoats, car coats, capes, cloaks, anoraks — of cotton, woven",
+    "keywords": ["overcoat", "car coat", "trench coat", "parka", "cotton", "woven", "women"],
+    "category": "outerwear",
+    "construction": "woven",
+    "gender": "women"
+  },
+  {
+    "code": "6202.13",
+    "chapter": 62,
+    "description": "Women's or girls' overcoats, car coats, capes, cloaks, anoraks — of man-made fibres, woven",
+    "keywords": ["overcoat", "car coat", "anorak", "ski jacket", "parka", "puffer", "polyester", "nylon", "woven", "women"],
+    "category": "outerwear",
+    "construction": "woven",
+    "gender": "women"
+  },
+  {
+    "code": "6203.11",
+    "chapter": 62,
+    "description": "Men's or boys' suits — of wool or fine animal hair, woven",
+    "keywords": ["suit", "business suit", "formal suit", "two-piece", "three-piece", "wool", "woven", "men"],
+    "category": "suits",
+    "construction": "woven",
+    "gender": "men"
+  },
+  {
+    "code": "6203.12",
+    "chapter": 62,
+    "description": "Men's or boys' suits — of synthetic fibres, woven",
+    "keywords": ["suit", "business suit", "polyester", "woven", "men"],
+    "category": "suits",
+    "construction": "woven",
+    "gender": "men"
+  },
+  {
+    "code": "6203.19",
+    "chapter": 62,
+    "description": "Men's or boys' suits — of other textile materials, woven",
+    "keywords": ["suit", "linen suit", "cotton suit", "silk suit", "woven", "men"],
+    "category": "suits",
+    "construction": "woven",
+    "gender": "men"
+  },
+  {
+    "code": "6203.31",
+    "chapter": 62,
+    "description": "Men's or boys' jackets and blazers — of wool or fine animal hair, woven",
+    "keywords": ["jacket", "blazer", "sport coat", "tweed", "wool", "cashmere", "woven", "men"],
+    "category": "jackets",
+    "construction": "woven",
+    "gender": "men"
+  },
+  {
+    "code": "6203.32",
+    "chapter": 62,
+    "description": "Men's or boys' jackets and blazers — of cotton, woven",
+    "keywords": ["jacket", "blazer", "sport coat", "cotton", "chino", "woven", "men"],
+    "category": "jackets",
+    "construction": "woven",
+    "gender": "men"
+  },
+  {
+    "code": "6203.33",
+    "chapter": 62,
+    "description": "Men's or boys' jackets and blazers — of synthetic fibres, woven",
+    "keywords": ["jacket", "blazer", "polyester", "woven", "men"],
+    "category": "jackets",
+    "construction": "woven",
+    "gender": "men"
+  },
+  {
+    "code": "6203.41",
+    "chapter": 62,
+    "description": "Men's or boys' trousers, breeches and shorts — of wool or fine animal hair, woven",
+    "keywords": ["trousers", "pants", "dress pants", "slacks", "shorts", "wool", "woven", "men"],
+    "category": "bottoms",
+    "construction": "woven",
+    "gender": "men"
+  },
+  {
+    "code": "6203.42",
+    "chapter": 62,
+    "description": "Men's or boys' trousers, breeches and shorts — of cotton, woven",
+    "keywords": ["trousers", "pants", "chinos", "khakis", "jeans", "denim", "shorts", "cargo pants", "cotton", "woven", "men"],
+    "category": "bottoms",
+    "construction": "woven",
+    "gender": "men"
+  },
+  {
+    "code": "6203.43",
+    "chapter": 62,
+    "description": "Men's or boys' trousers, breeches and shorts — of synthetic fibres, woven",
+    "keywords": ["trousers", "pants", "dress pants", "shorts", "polyester", "nylon", "woven", "men"],
+    "category": "bottoms",
+    "construction": "woven",
+    "gender": "men"
+  },
+  {
+    "code": "6203.49",
+    "chapter": 62,
+    "description": "Men's or boys' trousers, breeches and shorts — of other textile materials, woven",
+    "keywords": ["trousers", "pants", "shorts", "linen", "silk", "woven", "men"],
+    "category": "bottoms",
+    "construction": "woven",
+    "gender": "men"
+  },
+  {
+    "code": "6204.11",
+    "chapter": 62,
+    "description": "Women's or girls' suits — of wool or fine animal hair, woven",
+    "keywords": ["suit", "skirt suit", "pant suit", "wool", "woven", "women"],
+    "category": "suits",
+    "construction": "woven",
+    "gender": "women"
+  },
+  {
+    "code": "6204.12",
+    "chapter": 62,
+    "description": "Women's or girls' suits — of cotton, woven",
+    "keywords": ["suit", "skirt suit", "pant suit", "cotton", "woven", "women"],
+    "category": "suits",
+    "construction": "woven",
+    "gender": "women"
+  },
+  {
+    "code": "6204.13",
+    "chapter": 62,
+    "description": "Women's or girls' suits — of synthetic fibres, woven",
+    "keywords": ["suit", "skirt suit", "pant suit", "polyester", "woven", "women"],
+    "category": "suits",
+    "construction": "woven",
+    "gender": "women"
+  },
+  {
+    "code": "6204.31",
+    "chapter": 62,
+    "description": "Women's or girls' jackets and blazers — of wool or fine animal hair, woven",
+    "keywords": ["jacket", "blazer", "wool", "cashmere", "woven", "women"],
+    "category": "jackets",
+    "construction": "woven",
+    "gender": "women"
+  },
+  {
+    "code": "6204.32",
+    "chapter": 62,
+    "description": "Women's or girls' jackets and blazers — of cotton, woven",
+    "keywords": ["jacket", "blazer", "cotton", "woven", "women"],
+    "category": "jackets",
+    "construction": "woven",
+    "gender": "women"
+  },
+  {
+    "code": "6204.41",
+    "chapter": 62,
+    "description": "Women's or girls' dresses — of wool or fine animal hair, woven",
+    "keywords": ["dress", "frock", "gown", "wool", "woven", "women"],
+    "category": "dresses",
+    "construction": "woven",
+    "gender": "women"
+  },
+  {
+    "code": "6204.42",
+    "chapter": 62,
+    "description": "Women's or girls' dresses — of cotton, woven",
+    "keywords": ["dress", "sundress", "shirt dress", "denim dress", "cotton", "woven", "women"],
+    "category": "dresses",
+    "construction": "woven",
+    "gender": "women"
+  },
+  {
+    "code": "6204.43",
+    "chapter": 62,
+    "description": "Women's or girls' dresses — of synthetic fibres, woven",
+    "keywords": ["dress", "frock", "chiffon dress", "polyester", "woven", "women"],
+    "category": "dresses",
+    "construction": "woven",
+    "gender": "women"
+  },
+  {
+    "code": "6204.44",
+    "chapter": 62,
+    "description": "Women's or girls' dresses — of artificial fibres, woven",
+    "keywords": ["dress", "frock", "rayon", "viscose", "woven", "women"],
+    "category": "dresses",
+    "construction": "woven",
+    "gender": "women"
+  },
+  {
+    "code": "6204.49",
+    "chapter": 62,
+    "description": "Women's or girls' dresses — of other textile materials, woven",
+    "keywords": ["dress", "frock", "silk", "linen", "woven", "women"],
+    "category": "dresses",
+    "construction": "woven",
+    "gender": "women"
+  },
+  {
+    "code": "6204.52",
+    "chapter": 62,
+    "description": "Women's or girls' skirts and divided skirts — of cotton, woven",
+    "keywords": ["skirt", "denim skirt", "A-line skirt", "cotton", "woven", "women"],
+    "category": "bottoms",
+    "construction": "woven",
+    "gender": "women"
+  },
+  {
+    "code": "6204.53",
+    "chapter": 62,
+    "description": "Women's or girls' skirts and divided skirts — of synthetic fibres, woven",
+    "keywords": ["skirt", "pleated skirt", "polyester", "woven", "women"],
+    "category": "bottoms",
+    "construction": "woven",
+    "gender": "women"
+  },
+  {
+    "code": "6204.62",
+    "chapter": 62,
+    "description": "Women's or girls' trousers, breeches and shorts — of cotton, woven",
+    "keywords": ["trousers", "pants", "jeans", "denim", "chinos", "shorts", "cotton", "woven", "women"],
+    "category": "bottoms",
+    "construction": "woven",
+    "gender": "women"
+  },
+  {
+    "code": "6204.63",
+    "chapter": 62,
+    "description": "Women's or girls' trousers, breeches and shorts — of synthetic fibres, woven",
+    "keywords": ["trousers", "pants", "dress pants", "shorts", "polyester", "nylon", "woven", "women"],
+    "category": "bottoms",
+    "construction": "woven",
+    "gender": "women"
+  },
+  {
+    "code": "6205.20",
+    "chapter": 62,
+    "description": "Men's or boys' shirts — of cotton, woven",
+    "keywords": ["shirt", "dress shirt", "button-down", "oxford", "flannel", "chambray", "cotton", "woven", "men"],
+    "category": "tops",
+    "construction": "woven",
+    "gender": "men"
+  },
+  {
+    "code": "6205.30",
+    "chapter": 62,
+    "description": "Men's or boys' shirts — of man-made fibres, woven",
+    "keywords": ["shirt", "dress shirt", "button-down", "polyester", "woven", "men"],
+    "category": "tops",
+    "construction": "woven",
+    "gender": "men"
+  },
+  {
+    "code": "6205.90",
+    "chapter": 62,
+    "description": "Men's or boys' shirts — of other textile materials, woven",
+    "keywords": ["shirt", "dress shirt", "linen", "silk", "wool", "woven", "men"],
+    "category": "tops",
+    "construction": "woven",
+    "gender": "men"
+  },
+  {
+    "code": "6206.10",
+    "chapter": 62,
+    "description": "Women's or girls' blouses, shirts — of silk or silk waste, woven",
+    "keywords": ["blouse", "shirt", "silk", "woven", "women"],
+    "category": "tops",
+    "construction": "woven",
+    "gender": "women"
+  },
+  {
+    "code": "6206.30",
+    "chapter": 62,
+    "description": "Women's or girls' blouses, shirts — of cotton, woven",
+    "keywords": ["blouse", "shirt", "button-down", "cotton", "woven", "women"],
+    "category": "tops",
+    "construction": "woven",
+    "gender": "women"
+  },
+  {
+    "code": "6206.40",
+    "chapter": 62,
+    "description": "Women's or girls' blouses, shirts — of man-made fibres, woven",
+    "keywords": ["blouse", "shirt", "chiffon", "polyester", "woven", "women"],
+    "category": "tops",
+    "construction": "woven",
+    "gender": "women"
+  },
+  {
+    "code": "6209.20",
+    "chapter": 62,
+    "description": "Babies' garments and clothing accessories — of cotton, woven",
+    "keywords": ["baby", "infant", "newborn", "romper", "layette", "cotton", "woven"],
+    "category": "babywear",
+    "construction": "woven",
+    "gender": "unisex"
+  },
+  {
+    "code": "6210.10",
+    "chapter": 62,
+    "description": "Garments of felt or nonwovens",
+    "keywords": ["felt", "nonwoven", "disposable", "coverall", "surgical gown"],
+    "category": "other",
+    "construction": "woven",
+    "gender": "unisex"
+  },
+  {
+    "code": "6211.11",
+    "chapter": 62,
+    "description": "Men's or boys' swimwear, woven",
+    "keywords": ["swimwear", "swim trunks", "board shorts", "woven", "men"],
+    "category": "swimwear",
+    "construction": "woven",
+    "gender": "men"
+  },
+  {
+    "code": "6211.12",
+    "chapter": 62,
+    "description": "Women's or girls' swimwear, woven",
+    "keywords": ["swimwear", "swimsuit", "bikini", "sarong", "woven", "women"],
+    "category": "swimwear",
+    "construction": "woven",
+    "gender": "women"
+  },
+  {
+    "code": "6211.32",
+    "chapter": 62,
+    "description": "Other garments, men's or boys' — of cotton, woven",
+    "keywords": ["garment", "coverall", "jumpsuit", "boiler suit", "work wear", "cotton", "woven", "men"],
+    "category": "other",
+    "construction": "woven",
+    "gender": "men"
+  },
+  {
+    "code": "6211.42",
+    "chapter": 62,
+    "description": "Other garments, women's or girls' — of cotton, woven",
+    "keywords": ["garment", "jumpsuit", "romper", "apron", "cotton", "woven", "women"],
+    "category": "other",
+    "construction": "woven",
+    "gender": "women"
+  },
+  {
+    "code": "6212.10",
+    "chapter": 62,
+    "description": "Brassieres",
+    "keywords": ["brassiere", "bra", "sports bra", "bralette", "lingerie", "underwire"],
+    "category": "underwear",
+    "construction": "both",
+    "gender": "women"
+  },
+  {
+    "code": "6212.20",
+    "chapter": 62,
+    "description": "Girdles and panty-girdles",
+    "keywords": ["girdle", "panty-girdle", "shapewear", "control brief"],
+    "category": "underwear",
+    "construction": "both",
+    "gender": "women"
+  },
+  {
+    "code": "6212.90",
+    "chapter": 62,
+    "description": "Other (braces, suspenders, garters, corsets)",
+    "keywords": ["braces", "suspenders", "garters", "corset", "bustier"],
+    "category": "underwear",
+    "construction": "both",
+    "gender": "unisex"
+  },
+  {
+    "code": "6213.20",
+    "chapter": 62,
+    "description": "Handkerchiefs — of cotton",
+    "keywords": ["handkerchief", "pocket square", "hanky", "cotton", "woven"],
+    "category": "accessories",
+    "construction": "woven",
+    "gender": "unisex"
+  },
+  {
+    "code": "6213.90",
+    "chapter": 62,
+    "description": "Handkerchiefs — of other textile materials",
+    "keywords": ["handkerchief", "pocket square", "silk", "linen", "woven"],
+    "category": "accessories",
+    "construction": "woven",
+    "gender": "unisex"
+  },
+  {
+    "code": "6214.10",
+    "chapter": 62,
+    "description": "Shawls, scarves, mufflers, mantillas, veils — of silk or silk waste",
+    "keywords": ["shawl", "scarf", "muffler", "silk", "woven"],
+    "category": "accessories",
+    "construction": "woven",
+    "gender": "unisex"
+  },
+  {
+    "code": "6214.20",
+    "chapter": 62,
+    "description": "Shawls, scarves, mufflers, mantillas, veils — of wool or fine animal hair",
+    "keywords": ["shawl", "scarf", "muffler", "pashmina", "wool", "cashmere", "woven"],
+    "category": "accessories",
+    "construction": "woven",
+    "gender": "unisex"
+  },
+  {
+    "code": "6214.30",
+    "chapter": 62,
+    "description": "Shawls, scarves, mufflers, mantillas, veils — of synthetic fibres",
+    "keywords": ["shawl", "scarf", "polyester", "acrylic", "woven"],
+    "category": "accessories",
+    "construction": "woven",
+    "gender": "unisex"
+  },
+  {
+    "code": "6215.10",
+    "chapter": 62,
+    "description": "Ties, bow ties and cravats — of silk or silk waste",
+    "keywords": ["tie", "necktie", "bow tie", "cravat", "silk", "woven"],
+    "category": "accessories",
+    "construction": "woven",
+    "gender": "men"
+  },
+  {
+    "code": "6215.20",
+    "chapter": 62,
+    "description": "Ties, bow ties and cravats — of man-made fibres",
+    "keywords": ["tie", "necktie", "bow tie", "polyester", "woven"],
+    "category": "accessories",
+    "construction": "woven",
+    "gender": "men"
+  },
+  {
+    "code": "6216.00",
+    "chapter": 62,
+    "description": "Gloves, mittens and mitts, woven",
+    "keywords": ["gloves", "mittens", "textile", "woven", "dress gloves"],
+    "category": "accessories",
+    "construction": "woven",
+    "gender": "unisex"
+  },
+  {
+    "code": "6301.20",
+    "chapter": 63,
+    "description": "Blankets and travelling rugs — of wool or fine animal hair",
+    "keywords": ["blanket", "throw", "travelling rug", "wool", "cashmere"],
+    "category": "home textiles",
+    "construction": "woven",
+    "gender": "unisex"
+  },
+  {
+    "code": "6301.30",
+    "chapter": 63,
+    "description": "Blankets and travelling rugs — of cotton",
+    "keywords": ["blanket", "throw", "cotton"],
+    "category": "home textiles",
+    "construction": "woven",
+    "gender": "unisex"
+  },
+  {
+    "code": "6301.40",
+    "chapter": 63,
+    "description": "Blankets and travelling rugs — of synthetic fibres",
+    "keywords": ["blanket", "throw", "fleece", "polyester"],
+    "category": "home textiles",
+    "construction": "woven",
+    "gender": "unisex"
+  },
+  {
+    "code": "6302.21",
+    "chapter": 63,
+    "description": "Bed linen, printed — of cotton",
+    "keywords": ["bed linen", "sheets", "pillowcases", "duvet cover", "printed", "cotton"],
+    "category": "home textiles",
+    "construction": "woven",
+    "gender": "unisex"
+  },
+  {
+    "code": "6302.31",
+    "chapter": 63,
+    "description": "Bed linen — of cotton",
+    "keywords": ["bed linen", "sheets", "pillowcases", "duvet cover", "percale", "sateen", "cotton"],
+    "category": "home textiles",
+    "construction": "woven",
+    "gender": "unisex"
+  },
+  {
+    "code": "6302.60",
+    "chapter": 63,
+    "description": "Toilet linen and kitchen linen, terry towelling, of cotton",
+    "keywords": ["towel", "bath towel", "hand towel", "terry", "cotton"],
+    "category": "home textiles",
+    "construction": "woven",
+    "gender": "unisex"
+  },
+  {
+    "code": "6307.90",
+    "chapter": 63,
+    "description": "Other made up textile articles",
+    "keywords": ["face mask", "tote bag", "garment bag", "pet clothing", "flags"],
+    "category": "other",
+    "construction": "both",
+    "gender": "unisex"
+  },
+  {
+    "code": "6309.00",
+    "chapter": 63,
+    "description": "Worn clothing and other worn textile articles",
+    "keywords": ["worn clothing", "used clothing", "secondhand", "vintage", "thrift"],
+    "category": "other",
+    "construction": "both",
+    "gender": "unisex"
+  },
+  {
+    "code": "6310.10",
+    "chapter": 63,
+    "description": "Used or new rags, scrap — sorted",
+    "keywords": ["rags", "scrap", "textile waste", "wiping rags", "sorted"],
+    "category": "other",
+    "construction": "both",
+    "gender": "unisex"
+  },
+  {
+    "code": "6401.92",
+    "chapter": 64,
+    "description": "Waterproof footwear, rubber/plastics — covering the ankle but not the knee",
+    "keywords": ["waterproof", "rubber boots", "rain boots", "wellington", "ankle boots"],
+    "category": "footwear",
+    "construction": "moulded",
+    "gender": "unisex"
+  },
+  {
+    "code": "6401.99",
+    "chapter": 64,
+    "description": "Waterproof footwear, rubber/plastics — other",
+    "keywords": ["waterproof", "rubber boots", "rain boots", "wellington", "waders", "galoshes", "knee boots"],
+    "category": "footwear",
+    "construction": "moulded",
+    "gender": "unisex"
+  },
+  {
+    "code": "6402.12",
+    "chapter": 64,
+    "description": "Ski boots, snowboard boots — rubber/plastics",
+    "keywords": ["ski boots", "snowboard boots", "winter sport"],
+    "category": "footwear",
+    "construction": "moulded",
+    "gender": "unisex"
+  },
+  {
+    "code": "6402.19",
+    "chapter": 64,
+    "description": "Other sports footwear — rubber/plastics",
+    "keywords": ["sports shoes", "cleats", "football boots", "rubber", "plastics"],
+    "category": "footwear",
+    "construction": "moulded",
+    "gender": "unisex"
+  },
+  {
+    "code": "6402.20",
+    "chapter": 64,
+    "description": "Footwear with upper straps or thongs assembled by plugs — rubber/plastics",
+    "keywords": ["flip flops", "thongs", "sandals", "slides", "rubber"],
+    "category": "footwear",
+    "construction": "moulded",
+    "gender": "unisex"
+  },
+  {
+    "code": "6402.99",
+    "chapter": 64,
+    "description": "Other footwear, rubber/plastics outer sole and upper — other",
+    "keywords": ["shoes", "sandals", "clogs", "slippers", "jelly shoes", "crocs", "rubber", "plastics"],
+    "category": "footwear",
+    "construction": "moulded",
+    "gender": "unisex"
+  },
+  {
+    "code": "6403.20",
+    "chapter": 64,
+    "description": "Footwear with leather sole and leather strap upper",
+    "keywords": ["sandals", "leather sandals", "thong sandals", "strappy"],
+    "category": "footwear",
+    "construction": "leather",
+    "gender": "unisex"
+  },
+  {
+    "code": "6403.51",
+    "chapter": 64,
+    "description": "Footwear with leather upper, leather sole — covering the ankle",
+    "keywords": ["boots", "ankle boots", "Chelsea boots", "desert boots", "leather"],
+    "category": "footwear",
+    "construction": "leather",
+    "gender": "unisex"
+  },
+  {
+    "code": "6403.59",
+    "chapter": 64,
+    "description": "Footwear with leather upper, leather sole — other",
+    "keywords": ["shoes", "dress shoes", "oxford", "derby", "loafers", "brogues", "moccasins", "leather"],
+    "category": "footwear",
+    "construction": "leather",
+    "gender": "unisex"
+  },
+  {
+    "code": "6403.91",
+    "chapter": 64,
+    "description": "Footwear with leather upper, rubber/plastics sole — covering the ankle",
+    "keywords": ["boots", "ankle boots", "hiking boots", "leather upper", "rubber sole"],
+    "category": "footwear",
+    "construction": "leather",
+    "gender": "unisex"
+  },
+  {
+    "code": "6403.99",
+    "chapter": 64,
+    "description": "Footwear with leather upper, rubber/plastics sole — other",
+    "keywords": ["shoes", "dress shoes", "pumps", "heels", "flats", "leather upper", "rubber sole"],
+    "category": "footwear",
+    "construction": "leather",
+    "gender": "unisex"
+  },
+  {
+    "code": "6404.11",
+    "chapter": 64,
+    "description": "Sports footwear with textile uppers, rubber/plastics sole",
+    "keywords": ["sneakers", "trainers", "running shoes", "tennis shoes", "basketball shoes", "gym shoes", "athletic", "canvas", "textile upper"],
+    "category": "footwear",
+    "construction": "textile",
+    "gender": "unisex"
+  },
+  {
+    "code": "6404.19",
+    "chapter": 64,
+    "description": "Other footwear with textile uppers, rubber/plastics sole",
+    "keywords": ["shoes", "espadrilles", "canvas shoes", "slippers", "casual shoes", "textile upper"],
+    "category": "footwear",
+    "construction": "textile",
+    "gender": "unisex"
+  },
+  {
+    "code": "6404.20",
+    "chapter": 64,
+    "description": "Footwear with textile uppers, leather sole",
+    "keywords": ["shoes", "espadrilles", "dance shoes", "textile upper", "leather sole"],
+    "category": "footwear",
+    "construction": "textile",
+    "gender": "unisex"
+  },
+  {
+    "code": "6405.10",
+    "chapter": 64,
+    "description": "Other footwear with leather uppers",
+    "keywords": ["shoes", "sandals", "clogs", "leather upper", "wood sole", "cork sole"],
+    "category": "footwear",
+    "construction": "leather",
+    "gender": "unisex"
+  },
+  {
+    "code": "6405.20",
+    "chapter": 64,
+    "description": "Other footwear with textile uppers",
+    "keywords": ["slippers", "house shoes", "felt slippers", "textile upper"],
+    "category": "footwear",
+    "construction": "textile",
+    "gender": "unisex"
+  },
+  {
+    "code": "6406.10",
+    "chapter": 64,
+    "description": "Uppers and parts thereof",
+    "keywords": ["upper", "shoe upper", "vamp", "footwear parts"],
+    "category": "footwear parts",
+    "construction": "various",
+    "gender": "unisex"
+  },
+  {
+    "code": "6406.20",
+    "chapter": 64,
+    "description": "Outer soles and heels, of rubber or plastics",
+    "keywords": ["outer sole", "heel", "rubber sole", "footwear parts"],
+    "category": "footwear parts",
+    "construction": "various",
+    "gender": "unisex"
+  },
+  {
+    "code": "6406.90",
+    "chapter": 64,
+    "description": "Other parts of footwear (insoles, gaiters, leggings)",
+    "keywords": ["insole", "heel cushion", "gaiter", "stiffener", "footwear parts"],
+    "category": "footwear parts",
+    "construction": "various",
+    "gender": "unisex"
+  },
+  {
+    "code": "6501.00",
+    "chapter": 65,
+    "description": "Hat-forms, hat bodies and hoods of felt",
+    "keywords": ["hat form", "hat body", "felt", "millinery", "hat blank"],
+    "category": "headwear",
+    "construction": "felt",
+    "gender": "unisex"
+  },
+  {
+    "code": "6502.00",
+    "chapter": 65,
+    "description": "Hat-shapes, plaited or assembled from strips",
+    "keywords": ["hat shape", "straw hat blank", "plaited", "braided", "millinery"],
+    "category": "headwear",
+    "construction": "plaited",
+    "gender": "unisex"
+  },
+  {
+    "code": "6504.00",
+    "chapter": 65,
+    "description": "Hats and headgear, plaited or assembled from strips, finished",
+    "keywords": ["straw hat", "panama hat", "sun hat", "beach hat", "raffia hat", "plaited"],
+    "category": "headwear",
+    "construction": "plaited",
+    "gender": "unisex"
+  },
+  {
+    "code": "6505.00",
+    "chapter": 65,
+    "description": "Hats and headgear, knitted or of textile fabric; hair-nets",
+    "keywords": ["beanie", "knit cap", "beret", "felt hat", "fedora", "baseball cap", "snapback", "trucker hat", "bucket hat", "hair net", "knitted", "textile"],
+    "category": "headwear",
+    "construction": "knitted",
+    "gender": "unisex"
+  },
+  {
+    "code": "6506.10",
+    "chapter": 65,
+    "description": "Safety headgear",
+    "keywords": ["hard hat", "safety helmet", "crash helmet", "construction helmet", "protective"],
+    "category": "headwear",
+    "construction": "moulded",
+    "gender": "unisex"
+  },
+  {
+    "code": "6506.91",
+    "chapter": 65,
+    "description": "Other headgear — of rubber or plastics",
+    "keywords": ["hat", "rain hat", "visor", "rubber", "plastics"],
+    "category": "headwear",
+    "construction": "moulded",
+    "gender": "unisex"
+  },
+  {
+    "code": "6506.99",
+    "chapter": 65,
+    "description": "Other headgear — of other materials",
+    "keywords": ["hat", "leather hat", "fur hat"],
+    "category": "headwear",
+    "construction": "various",
+    "gender": "unisex"
+  },
+  {
+    "code": "6507.00",
+    "chapter": 65,
+    "description": "Head-bands, linings, covers, hat frames, peaks, chin straps for headgear",
+    "keywords": ["headband", "hat lining", "visor peak", "chin strap", "sweatband", "hat parts"],
+    "category": "headwear parts",
+    "construction": "various",
+    "gender": "unisex"
+  }
+]

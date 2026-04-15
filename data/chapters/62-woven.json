@@ -1,0 +1,950 @@
+{
+  "chapter": 62,
+  "title": "Articles of apparel and clothing accessories, not knitted or crocheted",
+  "notes": "This chapter covers garments that are woven (not knitted or crocheted). The distinction between Chapters 61 and 62 is based on construction method. If the fabric is knitted, use Chapter 61; if woven, use Chapter 62.",
+  "headings": [
+    {
+      "code": "6201",
+      "description": "Men's or boys' overcoats, car coats, capes, cloaks, anoraks (including ski jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 6203",
+      "level": "heading",
+      "children": [
+        {
+          "code": "6201.20",
+          "description": "Of wool or fine animal hair",
+          "level": "subheading",
+          "keywords": ["overcoat", "car coat", "cape", "cloak", "anorak", "ski jacket", "parka", "wool", "cashmere", "woven", "men", "boys"],
+          "commonGarments": ["wool overcoat", "cashmere topcoat", "wool parka"],
+          "notes": null
+        },
+        {
+          "code": "6201.30",
+          "description": "Of cotton",
+          "level": "subheading",
+          "keywords": ["overcoat", "car coat", "anorak", "parka", "windbreaker", "cotton", "woven", "men", "boys"],
+          "commonGarments": ["cotton trench coat", "cotton parka", "cotton windbreaker"],
+          "notes": null
+        },
+        {
+          "code": "6201.40",
+          "description": "Of man-made fibres",
+          "level": "subheading",
+          "keywords": ["overcoat", "car coat", "anorak", "ski jacket", "parka", "windbreaker", "puffer", "polyester", "nylon", "woven", "men", "boys"],
+          "commonGarments": ["nylon parka", "polyester puffer jacket", "nylon windbreaker", "ski jacket"],
+          "notes": null
+        },
+        {
+          "code": "6201.90",
+          "description": "Of other textile materials",
+          "level": "subheading",
+          "keywords": ["overcoat", "car coat", "cape", "silk", "linen", "woven", "men", "boys"],
+          "commonGarments": ["silk-lined overcoat"],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "code": "6202",
+      "description": "Women's or girls' overcoats, car coats, capes, cloaks, anoraks (including ski jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 6204",
+      "level": "heading",
+      "children": [
+        {
+          "code": "6202.11",
+          "description": "Of wool or fine animal hair",
+          "level": "subheading",
+          "keywords": ["overcoat", "car coat", "cape", "cloak", "anorak", "ski jacket", "wool", "cashmere", "woven", "women", "girls"],
+          "commonGarments": ["wool dress coat", "cashmere overcoat", "wool cape"],
+          "notes": null
+        },
+        {
+          "code": "6202.12",
+          "description": "Of cotton",
+          "level": "subheading",
+          "keywords": ["overcoat", "car coat", "anorak", "parka", "trench coat", "cotton", "woven", "women", "girls"],
+          "commonGarments": ["cotton trench coat", "cotton parka"],
+          "notes": null
+        },
+        {
+          "code": "6202.13",
+          "description": "Of man-made fibres",
+          "level": "subheading",
+          "keywords": ["overcoat", "car coat", "anorak", "ski jacket", "parka", "puffer", "polyester", "nylon", "woven", "women", "girls"],
+          "commonGarments": ["nylon parka", "polyester puffer coat", "ski jacket"],
+          "notes": null
+        },
+        {
+          "code": "6202.19",
+          "description": "Of other textile materials",
+          "level": "subheading",
+          "keywords": ["overcoat", "car coat", "cape", "silk", "linen", "woven", "women", "girls"],
+          "commonGarments": ["silk overcoat"],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "code": "6203",
+      "description": "Men's or boys' suits, ensembles, jackets, blazers, trousers, bib and brace overalls, breeches and shorts (other than swimwear)",
+      "level": "heading",
+      "children": [
+        {
+          "code": "6203.11",
+          "description": "Suits — of wool or fine animal hair",
+          "level": "subheading",
+          "keywords": ["suit", "two-piece", "three-piece", "business suit", "formal suit", "wool", "woven", "men", "boys"],
+          "commonGarments": ["wool business suit", "formal wool suit"],
+          "notes": null
+        },
+        {
+          "code": "6203.12",
+          "description": "Suits — of synthetic fibres",
+          "level": "subheading",
+          "keywords": ["suit", "two-piece", "business suit", "polyester", "woven", "men", "boys"],
+          "commonGarments": ["polyester blend suit"],
+          "notes": null
+        },
+        {
+          "code": "6203.19",
+          "description": "Suits — of other textile materials",
+          "level": "subheading",
+          "keywords": ["suit", "two-piece", "cotton", "linen", "silk", "woven", "men", "boys"],
+          "commonGarments": ["linen suit", "cotton suit", "silk suit"],
+          "notes": null
+        },
+        {
+          "code": "6203.22",
+          "description": "Ensembles — of cotton",
+          "level": "subheading",
+          "keywords": ["ensemble", "matching set", "cotton", "woven", "men", "boys"],
+          "commonGarments": ["cotton safari set", "cotton matching set"],
+          "notes": null
+        },
+        {
+          "code": "6203.23",
+          "description": "Ensembles — of synthetic fibres",
+          "level": "subheading",
+          "keywords": ["ensemble", "matching set", "polyester", "nylon", "woven", "men", "boys"],
+          "commonGarments": ["polyester ensemble"],
+          "notes": null
+        },
+        {
+          "code": "6203.29",
+          "description": "Ensembles — of other textile materials",
+          "level": "subheading",
+          "keywords": ["ensemble", "matching set", "wool", "linen", "silk", "woven", "men", "boys"],
+          "commonGarments": ["linen ensemble", "silk set"],
+          "notes": null
+        },
+        {
+          "code": "6203.31",
+          "description": "Jackets and blazers — of wool or fine animal hair",
+          "level": "subheading",
+          "keywords": ["jacket", "blazer", "sport coat", "wool", "cashmere", "tweed", "woven", "men", "boys"],
+          "commonGarments": ["wool blazer", "tweed sport coat", "cashmere jacket"],
+          "notes": null
+        },
+        {
+          "code": "6203.32",
+          "description": "Jackets and blazers — of cotton",
+          "level": "subheading",
+          "keywords": ["jacket", "blazer", "sport coat", "cotton", "chino", "woven", "men", "boys"],
+          "commonGarments": ["cotton blazer", "unstructured cotton jacket"],
+          "notes": null
+        },
+        {
+          "code": "6203.33",
+          "description": "Jackets and blazers — of synthetic fibres",
+          "level": "subheading",
+          "keywords": ["jacket", "blazer", "sport coat", "polyester", "woven", "men", "boys"],
+          "commonGarments": ["polyester blazer"],
+          "notes": null
+        },
+        {
+          "code": "6203.39",
+          "description": "Jackets and blazers — of other textile materials",
+          "level": "subheading",
+          "keywords": ["jacket", "blazer", "sport coat", "linen", "silk", "woven", "men", "boys"],
+          "commonGarments": ["linen blazer", "silk jacket"],
+          "notes": null
+        },
+        {
+          "code": "6203.41",
+          "description": "Trousers, bib and brace overalls, breeches and shorts — of wool or fine animal hair",
+          "level": "subheading",
+          "keywords": ["trousers", "pants", "shorts", "dress pants", "slacks", "wool", "woven", "men", "boys"],
+          "commonGarments": ["wool dress trousers", "wool shorts"],
+          "notes": null
+        },
+        {
+          "code": "6203.42",
+          "description": "Trousers, bib and brace overalls, breeches and shorts — of cotton",
+          "level": "subheading",
+          "keywords": ["trousers", "pants", "shorts", "chinos", "khakis", "jeans", "denim", "cargo pants", "cotton", "woven", "men", "boys"],
+          "commonGarments": ["cotton chinos", "denim jeans", "cargo shorts", "khaki trousers"],
+          "notes": "Includes denim jeans"
+        },
+        {
+          "code": "6203.43",
+          "description": "Trousers, bib and brace overalls, breeches and shorts — of synthetic fibres",
+          "level": "subheading",
+          "keywords": ["trousers", "pants", "shorts", "dress pants", "polyester", "nylon", "woven", "men", "boys"],
+          "commonGarments": ["polyester dress pants", "nylon cargo shorts"],
+          "notes": null
+        },
+        {
+          "code": "6203.49",
+          "description": "Trousers, bib and brace overalls, breeches and shorts — of other textile materials",
+          "level": "subheading",
+          "keywords": ["trousers", "pants", "shorts", "linen", "silk", "woven", "men", "boys"],
+          "commonGarments": ["linen trousers", "linen shorts"],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "code": "6204",
+      "description": "Women's or girls' suits, ensembles, jackets, blazers, dresses, skirts, divided skirts, trousers, bib and brace overalls, breeches and shorts (other than swimwear)",
+      "level": "heading",
+      "children": [
+        {
+          "code": "6204.11",
+          "description": "Suits — of wool or fine animal hair",
+          "level": "subheading",
+          "keywords": ["suit", "skirt suit", "pant suit", "wool", "woven", "women", "girls"],
+          "commonGarments": ["wool skirt suit", "wool pant suit"],
+          "notes": null
+        },
+        {
+          "code": "6204.12",
+          "description": "Suits — of cotton",
+          "level": "subheading",
+          "keywords": ["suit", "skirt suit", "pant suit", "cotton", "woven", "women", "girls"],
+          "commonGarments": ["cotton suit"],
+          "notes": null
+        },
+        {
+          "code": "6204.13",
+          "description": "Suits — of synthetic fibres",
+          "level": "subheading",
+          "keywords": ["suit", "skirt suit", "pant suit", "polyester", "woven", "women", "girls"],
+          "commonGarments": ["polyester blend suit"],
+          "notes": null
+        },
+        {
+          "code": "6204.19",
+          "description": "Suits — of other textile materials",
+          "level": "subheading",
+          "keywords": ["suit", "skirt suit", "pant suit", "silk", "linen", "woven", "women", "girls"],
+          "commonGarments": ["linen suit", "silk suit"],
+          "notes": null
+        },
+        {
+          "code": "6204.22",
+          "description": "Ensembles — of cotton",
+          "level": "subheading",
+          "keywords": ["ensemble", "matching set", "cotton", "woven", "women", "girls"],
+          "commonGarments": ["cotton matching set"],
+          "notes": null
+        },
+        {
+          "code": "6204.23",
+          "description": "Ensembles — of synthetic fibres",
+          "level": "subheading",
+          "keywords": ["ensemble", "matching set", "polyester", "woven", "women", "girls"],
+          "commonGarments": ["polyester ensemble"],
+          "notes": null
+        },
+        {
+          "code": "6204.29",
+          "description": "Ensembles — of other textile materials",
+          "level": "subheading",
+          "keywords": ["ensemble", "matching set", "wool", "silk", "linen", "woven", "women", "girls"],
+          "commonGarments": ["silk ensemble", "linen set"],
+          "notes": null
+        },
+        {
+          "code": "6204.31",
+          "description": "Jackets and blazers — of wool or fine animal hair",
+          "level": "subheading",
+          "keywords": ["jacket", "blazer", "wool", "cashmere", "woven", "women", "girls"],
+          "commonGarments": ["wool blazer", "cashmere jacket"],
+          "notes": null
+        },
+        {
+          "code": "6204.32",
+          "description": "Jackets and blazers — of cotton",
+          "level": "subheading",
+          "keywords": ["jacket", "blazer", "cotton", "woven", "women", "girls"],
+          "commonGarments": ["cotton blazer", "cotton jacket"],
+          "notes": null
+        },
+        {
+          "code": "6204.33",
+          "description": "Jackets and blazers — of synthetic fibres",
+          "level": "subheading",
+          "keywords": ["jacket", "blazer", "polyester", "woven", "women", "girls"],
+          "commonGarments": ["polyester blazer"],
+          "notes": null
+        },
+        {
+          "code": "6204.39",
+          "description": "Jackets and blazers — of other textile materials",
+          "level": "subheading",
+          "keywords": ["jacket", "blazer", "silk", "linen", "woven", "women", "girls"],
+          "commonGarments": ["linen blazer", "silk jacket"],
+          "notes": null
+        },
+        {
+          "code": "6204.41",
+          "description": "Dresses — of wool or fine animal hair",
+          "level": "subheading",
+          "keywords": ["dress", "frock", "gown", "wool", "woven", "women", "girls"],
+          "commonGarments": ["wool shift dress", "wool sheath dress"],
+          "notes": null
+        },
+        {
+          "code": "6204.42",
+          "description": "Dresses — of cotton",
+          "level": "subheading",
+          "keywords": ["dress", "frock", "sundress", "shirt dress", "cotton", "denim", "woven", "women", "girls"],
+          "commonGarments": ["cotton sundress", "denim shirt dress", "cotton wrap dress"],
+          "notes": null
+        },
+        {
+          "code": "6204.43",
+          "description": "Dresses — of synthetic fibres",
+          "level": "subheading",
+          "keywords": ["dress", "frock", "gown", "polyester", "nylon", "woven", "women", "girls"],
+          "commonGarments": ["polyester dress", "chiffon dress"],
+          "notes": null
+        },
+        {
+          "code": "6204.44",
+          "description": "Dresses — of artificial fibres",
+          "level": "subheading",
+          "keywords": ["dress", "frock", "rayon", "viscose", "woven", "women", "girls"],
+          "commonGarments": ["rayon wrap dress", "viscose shirt dress"],
+          "notes": null
+        },
+        {
+          "code": "6204.49",
+          "description": "Dresses — of other textile materials",
+          "level": "subheading",
+          "keywords": ["dress", "frock", "gown", "silk", "linen", "woven", "women", "girls"],
+          "commonGarments": ["silk dress", "linen dress"],
+          "notes": null
+        },
+        {
+          "code": "6204.51",
+          "description": "Skirts and divided skirts — of wool or fine animal hair",
+          "level": "subheading",
+          "keywords": ["skirt", "divided skirt", "culottes", "wool", "woven", "women", "girls"],
+          "commonGarments": ["wool pencil skirt", "wool A-line skirt"],
+          "notes": null
+        },
+        {
+          "code": "6204.52",
+          "description": "Skirts and divided skirts — of cotton",
+          "level": "subheading",
+          "keywords": ["skirt", "divided skirt", "culottes", "denim skirt", "cotton", "woven", "women", "girls"],
+          "commonGarments": ["denim skirt", "cotton A-line skirt"],
+          "notes": null
+        },
+        {
+          "code": "6204.53",
+          "description": "Skirts and divided skirts — of synthetic fibres",
+          "level": "subheading",
+          "keywords": ["skirt", "divided skirt", "culottes", "polyester", "woven", "women", "girls"],
+          "commonGarments": ["polyester pleated skirt"],
+          "notes": null
+        },
+        {
+          "code": "6204.59",
+          "description": "Skirts and divided skirts — of other textile materials",
+          "level": "subheading",
+          "keywords": ["skirt", "divided skirt", "silk", "linen", "woven", "women", "girls"],
+          "commonGarments": ["silk skirt", "linen midi skirt"],
+          "notes": null
+        },
+        {
+          "code": "6204.61",
+          "description": "Trousers, bib and brace overalls, breeches and shorts — of wool or fine animal hair",
+          "level": "subheading",
+          "keywords": ["trousers", "pants", "shorts", "dress pants", "wool", "woven", "women", "girls"],
+          "commonGarments": ["wool dress trousers", "wool wide-leg pants"],
+          "notes": null
+        },
+        {
+          "code": "6204.62",
+          "description": "Trousers, bib and brace overalls, breeches and shorts — of cotton",
+          "level": "subheading",
+          "keywords": ["trousers", "pants", "shorts", "jeans", "denim", "chinos", "cotton", "woven", "women", "girls"],
+          "commonGarments": ["women's jeans", "cotton chinos", "cotton shorts"],
+          "notes": "Includes denim jeans"
+        },
+        {
+          "code": "6204.63",
+          "description": "Trousers, bib and brace overalls, breeches and shorts — of synthetic fibres",
+          "level": "subheading",
+          "keywords": ["trousers", "pants", "shorts", "dress pants", "polyester", "nylon", "woven", "women", "girls"],
+          "commonGarments": ["polyester dress pants", "nylon hiking shorts"],
+          "notes": null
+        },
+        {
+          "code": "6204.69",
+          "description": "Trousers, bib and brace overalls, breeches and shorts — of other textile materials",
+          "level": "subheading",
+          "keywords": ["trousers", "pants", "shorts", "linen", "silk", "woven", "women", "girls"],
+          "commonGarments": ["linen trousers", "linen shorts", "silk pants"],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "code": "6205",
+      "description": "Men's or boys' shirts",
+      "level": "heading",
+      "children": [
+        {
+          "code": "6205.20",
+          "description": "Of cotton",
+          "level": "subheading",
+          "keywords": ["shirt", "dress shirt", "button-down", "oxford", "flannel", "chambray", "cotton", "woven", "men", "boys"],
+          "commonGarments": ["cotton dress shirt", "oxford button-down", "flannel shirt", "chambray shirt"],
+          "notes": "Woven shirts only. Knitted shirts (polo shirts) are classified under 6105."
+        },
+        {
+          "code": "6205.30",
+          "description": "Of man-made fibres",
+          "level": "subheading",
+          "keywords": ["shirt", "dress shirt", "button-down", "polyester", "nylon", "woven", "men", "boys"],
+          "commonGarments": ["polyester dress shirt", "polyester-cotton blend shirt"],
+          "notes": null
+        },
+        {
+          "code": "6205.90",
+          "description": "Of other textile materials",
+          "level": "subheading",
+          "keywords": ["shirt", "dress shirt", "button-down", "silk", "linen", "wool", "woven", "men", "boys"],
+          "commonGarments": ["linen shirt", "silk dress shirt", "wool flannel shirt"],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "code": "6206",
+      "description": "Women's or girls' blouses, shirts and shirt-blouses",
+      "level": "heading",
+      "children": [
+        {
+          "code": "6206.10",
+          "description": "Of silk or silk waste",
+          "level": "subheading",
+          "keywords": ["blouse", "shirt", "shirt-blouse", "silk", "woven", "women", "girls"],
+          "commonGarments": ["silk blouse", "silk shirt"],
+          "notes": null
+        },
+        {
+          "code": "6206.20",
+          "description": "Of wool or fine animal hair",
+          "level": "subheading",
+          "keywords": ["blouse", "shirt", "shirt-blouse", "wool", "cashmere", "woven", "women", "girls"],
+          "commonGarments": ["wool blouse"],
+          "notes": null
+        },
+        {
+          "code": "6206.30",
+          "description": "Of cotton",
+          "level": "subheading",
+          "keywords": ["blouse", "shirt", "shirt-blouse", "button-down", "cotton", "woven", "women", "girls"],
+          "commonGarments": ["cotton blouse", "cotton button-down shirt"],
+          "notes": null
+        },
+        {
+          "code": "6206.40",
+          "description": "Of man-made fibres",
+          "level": "subheading",
+          "keywords": ["blouse", "shirt", "shirt-blouse", "polyester", "chiffon", "woven", "women", "girls"],
+          "commonGarments": ["polyester blouse", "chiffon blouse"],
+          "notes": null
+        },
+        {
+          "code": "6206.90",
+          "description": "Of other textile materials",
+          "level": "subheading",
+          "keywords": ["blouse", "shirt", "shirt-blouse", "linen", "rayon", "woven", "women", "girls"],
+          "commonGarments": ["linen blouse", "rayon shirt"],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "code": "6207",
+      "description": "Men's or boys' singlets and other vests, underpants, briefs, nightshirts, pyjamas, bathrobes, dressing gowns and similar articles",
+      "level": "heading",
+      "children": [
+        {
+          "code": "6207.11",
+          "description": "Underpants and briefs — of cotton",
+          "level": "subheading",
+          "keywords": ["underpants", "briefs", "boxer shorts", "underwear", "cotton", "woven", "men", "boys"],
+          "commonGarments": ["woven cotton boxer shorts"],
+          "notes": null
+        },
+        {
+          "code": "6207.19",
+          "description": "Underpants and briefs — of other textile materials",
+          "level": "subheading",
+          "keywords": ["underpants", "briefs", "boxer shorts", "underwear", "silk", "polyester", "woven", "men", "boys"],
+          "commonGarments": ["silk boxer shorts"],
+          "notes": null
+        },
+        {
+          "code": "6207.21",
+          "description": "Nightshirts and pyjamas — of cotton",
+          "level": "subheading",
+          "keywords": ["nightshirt", "pyjamas", "pajamas", "sleepwear", "cotton", "woven", "men", "boys"],
+          "commonGarments": ["cotton woven pyjamas", "cotton nightshirt"],
+          "notes": null
+        },
+        {
+          "code": "6207.22",
+          "description": "Nightshirts and pyjamas — of man-made fibres",
+          "level": "subheading",
+          "keywords": ["nightshirt", "pyjamas", "pajamas", "sleepwear", "polyester", "satin", "woven", "men", "boys"],
+          "commonGarments": ["satin pyjamas"],
+          "notes": null
+        },
+        {
+          "code": "6207.29",
+          "description": "Nightshirts and pyjamas — of other textile materials",
+          "level": "subheading",
+          "keywords": ["nightshirt", "pyjamas", "pajamas", "sleepwear", "silk", "linen", "woven", "men", "boys"],
+          "commonGarments": ["silk pyjamas"],
+          "notes": null
+        },
+        {
+          "code": "6207.91",
+          "description": "Other (singlets, vests, bathrobes) — of cotton",
+          "level": "subheading",
+          "keywords": ["singlet", "vest", "bathrobe", "dressing gown", "robe", "cotton", "woven", "men", "boys"],
+          "commonGarments": ["cotton woven robe", "cotton bathrobe"],
+          "notes": null
+        },
+        {
+          "code": "6207.99",
+          "description": "Other (singlets, vests, bathrobes) — of other textile materials",
+          "level": "subheading",
+          "keywords": ["singlet", "vest", "bathrobe", "dressing gown", "robe", "silk", "polyester", "woven", "men", "boys"],
+          "commonGarments": ["silk dressing gown", "satin robe"],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "code": "6208",
+      "description": "Women's or girls' singlets and other vests, slips, petticoats, briefs, panties, nightdresses, pyjamas, negligees, bathrobes, dressing gowns and similar articles",
+      "level": "heading",
+      "children": [
+        {
+          "code": "6208.11",
+          "description": "Slips and petticoats — of man-made fibres",
+          "level": "subheading",
+          "keywords": ["slip", "petticoat", "underskirt", "polyester", "nylon", "satin", "woven", "women", "girls"],
+          "commonGarments": ["satin slip", "nylon petticoat"],
+          "notes": null
+        },
+        {
+          "code": "6208.19",
+          "description": "Slips and petticoats — of other textile materials",
+          "level": "subheading",
+          "keywords": ["slip", "petticoat", "underskirt", "cotton", "silk", "woven", "women", "girls"],
+          "commonGarments": ["cotton slip", "silk slip"],
+          "notes": null
+        },
+        {
+          "code": "6208.21",
+          "description": "Nightdresses and pyjamas — of cotton",
+          "level": "subheading",
+          "keywords": ["nightdress", "nightgown", "pyjamas", "pajamas", "sleepwear", "cotton", "woven", "women", "girls"],
+          "commonGarments": ["cotton nightgown", "cotton woven pyjamas"],
+          "notes": null
+        },
+        {
+          "code": "6208.22",
+          "description": "Nightdresses and pyjamas — of man-made fibres",
+          "level": "subheading",
+          "keywords": ["nightdress", "nightgown", "pyjamas", "pajamas", "sleepwear", "polyester", "satin", "woven", "women", "girls"],
+          "commonGarments": ["satin nightgown", "satin pyjamas"],
+          "notes": null
+        },
+        {
+          "code": "6208.29",
+          "description": "Nightdresses and pyjamas — of other textile materials",
+          "level": "subheading",
+          "keywords": ["nightdress", "nightgown", "pyjamas", "pajamas", "sleepwear", "silk", "linen", "woven", "women", "girls"],
+          "commonGarments": ["silk nightgown", "silk pyjamas"],
+          "notes": null
+        },
+        {
+          "code": "6208.91",
+          "description": "Other (briefs, panties, negligees, bathrobes) — of cotton",
+          "level": "subheading",
+          "keywords": ["briefs", "panties", "negligee", "bathrobe", "robe", "camisole", "cotton", "woven", "women", "girls"],
+          "commonGarments": ["cotton bathrobe", "cotton camisole"],
+          "notes": null
+        },
+        {
+          "code": "6208.92",
+          "description": "Other (briefs, panties, negligees, bathrobes) — of man-made fibres",
+          "level": "subheading",
+          "keywords": ["briefs", "panties", "negligee", "bathrobe", "robe", "camisole", "polyester", "satin", "woven", "women", "girls"],
+          "commonGarments": ["satin negligee", "satin camisole"],
+          "notes": null
+        },
+        {
+          "code": "6208.99",
+          "description": "Other (briefs, panties, negligees, bathrobes) — of other textile materials",
+          "level": "subheading",
+          "keywords": ["briefs", "panties", "negligee", "bathrobe", "robe", "silk", "woven", "women", "girls"],
+          "commonGarments": ["silk negligee", "silk robe"],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "code": "6209",
+      "description": "Babies' garments and clothing accessories",
+      "level": "heading",
+      "children": [
+        {
+          "code": "6209.20",
+          "description": "Of cotton",
+          "level": "subheading",
+          "keywords": ["baby", "infant", "newborn", "romper", "onesie", "layette", "cotton", "woven"],
+          "commonGarments": ["cotton baby romper", "cotton layette set", "cotton baby dress"],
+          "notes": "For garments designed for young children of a body height not exceeding 86 cm"
+        },
+        {
+          "code": "6209.30",
+          "description": "Of synthetic fibres",
+          "level": "subheading",
+          "keywords": ["baby", "infant", "newborn", "romper", "snowsuit", "polyester", "woven"],
+          "commonGarments": ["polyester baby snowsuit"],
+          "notes": null
+        },
+        {
+          "code": "6209.90",
+          "description": "Of other textile materials",
+          "level": "subheading",
+          "keywords": ["baby", "infant", "newborn", "romper", "wool", "silk", "woven"],
+          "commonGarments": ["wool baby coat", "silk christening gown"],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "code": "6210",
+      "description": "Garments, made up of fabrics of heading 5602, 5603, 5903, 5906 or 5907",
+      "level": "heading",
+      "children": [
+        {
+          "code": "6210.10",
+          "description": "Of fabrics of heading 5602 or 5603 (felt or nonwovens)",
+          "level": "subheading",
+          "keywords": ["felt", "nonwoven", "disposable", "coverall", "surgical gown", "woven"],
+          "commonGarments": ["disposable coverall", "nonwoven surgical gown", "felt garment"],
+          "notes": null
+        },
+        {
+          "code": "6210.20",
+          "description": "Other garments, of the type described in heading 6201 — men's overcoats etc.",
+          "level": "subheading",
+          "keywords": ["overcoat", "anorak", "coated", "laminated", "waterproof", "woven", "men", "boys"],
+          "commonGarments": ["waterproof coated jacket", "laminated rain coat"],
+          "notes": "Coated, covered or laminated garments of the overcoat type"
+        },
+        {
+          "code": "6210.30",
+          "description": "Other garments, of the type described in heading 6202 — women's overcoats etc.",
+          "level": "subheading",
+          "keywords": ["overcoat", "anorak", "coated", "laminated", "waterproof", "woven", "women", "girls"],
+          "commonGarments": ["waterproof rain jacket", "coated parka"],
+          "notes": "Coated, covered or laminated garments of the overcoat type"
+        },
+        {
+          "code": "6210.40",
+          "description": "Other men's or boys' garments",
+          "level": "subheading",
+          "keywords": ["coated", "laminated", "rubberised", "protective", "woven", "men", "boys"],
+          "commonGarments": ["coated work garment", "rubberised apron"],
+          "notes": null
+        },
+        {
+          "code": "6210.50",
+          "description": "Other women's or girls' garments",
+          "level": "subheading",
+          "keywords": ["coated", "laminated", "rubberised", "protective", "woven", "women", "girls"],
+          "commonGarments": ["coated apron", "laminated protective garment"],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "code": "6211",
+      "description": "Track suits, ski suits and swimwear; other garments",
+      "level": "heading",
+      "children": [
+        {
+          "code": "6211.11",
+          "description": "Men's or boys' swimwear",
+          "level": "subheading",
+          "keywords": ["swimwear", "swim trunks", "swim shorts", "board shorts", "woven", "men", "boys"],
+          "commonGarments": ["woven board shorts", "woven swim trunks"],
+          "notes": null
+        },
+        {
+          "code": "6211.12",
+          "description": "Women's or girls' swimwear",
+          "level": "subheading",
+          "keywords": ["swimwear", "swimsuit", "bikini", "sarong", "woven", "women", "girls"],
+          "commonGarments": ["woven bikini", "sarong wrap"],
+          "notes": null
+        },
+        {
+          "code": "6211.20",
+          "description": "Ski suits",
+          "level": "subheading",
+          "keywords": ["ski suit", "snow suit", "skiing", "winter sport", "woven"],
+          "commonGarments": ["woven ski suit", "snowboard suit"],
+          "notes": null
+        },
+        {
+          "code": "6211.32",
+          "description": "Other garments, men's or boys' — of cotton",
+          "level": "subheading",
+          "keywords": ["garment", "coverall", "jumpsuit", "boiler suit", "work wear", "cotton", "woven", "men", "boys"],
+          "commonGarments": ["cotton coverall", "cotton jumpsuit", "cotton work shirt"],
+          "notes": "Catch-all for woven men's garments not classified elsewhere"
+        },
+        {
+          "code": "6211.33",
+          "description": "Other garments, men's or boys' — of man-made fibres",
+          "level": "subheading",
+          "keywords": ["garment", "coverall", "jumpsuit", "work wear", "polyester", "nylon", "woven", "men", "boys"],
+          "commonGarments": ["polyester coverall", "nylon flight suit"],
+          "notes": null
+        },
+        {
+          "code": "6211.39",
+          "description": "Other garments, men's or boys' — of other textile materials",
+          "level": "subheading",
+          "keywords": ["garment", "coverall", "jumpsuit", "wool", "silk", "linen", "woven", "men", "boys"],
+          "commonGarments": ["linen jumpsuit"],
+          "notes": null
+        },
+        {
+          "code": "6211.42",
+          "description": "Other garments, women's or girls' — of cotton",
+          "level": "subheading",
+          "keywords": ["garment", "jumpsuit", "romper", "apron", "cotton", "woven", "women", "girls"],
+          "commonGarments": ["cotton jumpsuit", "cotton romper", "cotton apron"],
+          "notes": null
+        },
+        {
+          "code": "6211.43",
+          "description": "Other garments, women's or girls' — of man-made fibres",
+          "level": "subheading",
+          "keywords": ["garment", "jumpsuit", "romper", "apron", "polyester", "nylon", "woven", "women", "girls"],
+          "commonGarments": ["polyester jumpsuit"],
+          "notes": null
+        },
+        {
+          "code": "6211.49",
+          "description": "Other garments, women's or girls' — of other textile materials",
+          "level": "subheading",
+          "keywords": ["garment", "jumpsuit", "romper", "silk", "linen", "woven", "women", "girls"],
+          "commonGarments": ["silk jumpsuit", "linen romper"],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "code": "6212",
+      "description": "Brassieres, girdles, corsets, braces, suspenders, garters and similar articles and parts thereof, whether or not knitted or crocheted",
+      "level": "heading",
+      "children": [
+        {
+          "code": "6212.10",
+          "description": "Brassieres",
+          "level": "subheading",
+          "keywords": ["brassiere", "bra", "sports bra", "bralette", "lingerie", "underwire"],
+          "commonGarments": ["underwire bra", "sports bra", "bralette", "nursing bra", "strapless bra"],
+          "notes": "Classified here regardless of whether knitted or woven construction"
+        },
+        {
+          "code": "6212.20",
+          "description": "Girdles and panty-girdles",
+          "level": "subheading",
+          "keywords": ["girdle", "panty-girdle", "shapewear", "control brief"],
+          "commonGarments": ["shapewear brief", "control panty"],
+          "notes": null
+        },
+        {
+          "code": "6212.30",
+          "description": "Corselettes",
+          "level": "subheading",
+          "keywords": ["corselette", "body shaper", "all-in-one", "shapewear"],
+          "commonGarments": ["corselette", "full body shaper"],
+          "notes": null
+        },
+        {
+          "code": "6212.90",
+          "description": "Other (braces, suspenders, garters and similar)",
+          "level": "subheading",
+          "keywords": ["braces", "suspenders", "garters", "corset", "bustier", "waist cincher"],
+          "commonGarments": ["suspenders", "garter belt", "corset", "bustier"],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "code": "6213",
+      "description": "Handkerchiefs",
+      "level": "heading",
+      "children": [
+        {
+          "code": "6213.20",
+          "description": "Of cotton",
+          "level": "subheading",
+          "keywords": ["handkerchief", "pocket square", "hanky", "cotton", "woven"],
+          "commonGarments": ["cotton handkerchief", "cotton pocket square"],
+          "notes": null
+        },
+        {
+          "code": "6213.90",
+          "description": "Of other textile materials",
+          "level": "subheading",
+          "keywords": ["handkerchief", "pocket square", "hanky", "silk", "linen", "woven"],
+          "commonGarments": ["silk pocket square", "linen handkerchief"],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "code": "6214",
+      "description": "Shawls, scarves, mufflers, mantillas, veils and the like",
+      "level": "heading",
+      "children": [
+        {
+          "code": "6214.10",
+          "description": "Of silk or silk waste",
+          "level": "subheading",
+          "keywords": ["shawl", "scarf", "muffler", "mantilla", "veil", "wrap", "silk", "woven"],
+          "commonGarments": ["silk scarf", "silk shawl"],
+          "notes": null
+        },
+        {
+          "code": "6214.20",
+          "description": "Of wool or fine animal hair",
+          "level": "subheading",
+          "keywords": ["shawl", "scarf", "muffler", "wrap", "pashmina", "wool", "cashmere", "woven"],
+          "commonGarments": ["wool scarf", "cashmere shawl", "pashmina"],
+          "notes": null
+        },
+        {
+          "code": "6214.30",
+          "description": "Of synthetic fibres",
+          "level": "subheading",
+          "keywords": ["shawl", "scarf", "muffler", "wrap", "polyester", "acrylic", "woven"],
+          "commonGarments": ["polyester scarf", "acrylic scarf"],
+          "notes": null
+        },
+        {
+          "code": "6214.40",
+          "description": "Of artificial fibres",
+          "level": "subheading",
+          "keywords": ["shawl", "scarf", "muffler", "wrap", "rayon", "viscose", "woven"],
+          "commonGarments": ["viscose scarf", "rayon wrap"],
+          "notes": null
+        },
+        {
+          "code": "6214.90",
+          "description": "Of other textile materials",
+          "level": "subheading",
+          "keywords": ["shawl", "scarf", "muffler", "wrap", "cotton", "linen", "woven"],
+          "commonGarments": ["cotton scarf", "linen shawl"],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "code": "6215",
+      "description": "Ties, bow ties and cravats",
+      "level": "heading",
+      "children": [
+        {
+          "code": "6215.10",
+          "description": "Of silk or silk waste",
+          "level": "subheading",
+          "keywords": ["tie", "necktie", "bow tie", "cravat", "silk", "woven"],
+          "commonGarments": ["silk necktie", "silk bow tie"],
+          "notes": null
+        },
+        {
+          "code": "6215.20",
+          "description": "Of man-made fibres",
+          "level": "subheading",
+          "keywords": ["tie", "necktie", "bow tie", "cravat", "polyester", "woven"],
+          "commonGarments": ["polyester tie", "polyester bow tie"],
+          "notes": null
+        },
+        {
+          "code": "6215.90",
+          "description": "Of other textile materials",
+          "level": "subheading",
+          "keywords": ["tie", "necktie", "bow tie", "cravat", "cotton", "wool", "linen", "woven"],
+          "commonGarments": ["cotton tie", "wool tie", "linen tie"],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "code": "6216",
+      "description": "Gloves, mittens and mitts",
+      "level": "heading",
+      "children": [
+        {
+          "code": "6216.00",
+          "description": "Gloves, mittens and mitts",
+          "level": "subheading",
+          "keywords": ["gloves", "mittens", "mitts", "leather", "textile", "woven", "dress gloves"],
+          "commonGarments": ["woven textile gloves", "dress gloves"],
+          "notes": "Textile gloves not knitted or crocheted. Leather gloves are classified under heading 4203."
+        }
+      ]
+    },
+    {
+      "code": "6217",
+      "description": "Other made up clothing accessories; parts of garments or of clothing accessories, other than those of heading 6212",
+      "level": "heading",
+      "children": [
+        {
+          "code": "6217.10",
+          "description": "Accessories",
+          "level": "subheading",
+          "keywords": ["accessories", "sleeve protectors", "shoulder pads", "dress shields", "woven"],
+          "commonGarments": ["shoulder pads", "sleeve protectors"],
+          "notes": null
+        },
+        {
+          "code": "6217.90",
+          "description": "Parts",
+          "level": "subheading",
+          "keywords": ["parts", "components", "collar", "cuff", "waistband", "lining", "woven"],
+          "commonGarments": ["shirt collar", "detachable cuffs"],
+          "notes": "Separately presented parts of garments or accessories"
+        }
+      ]
+    }
+  ]
+}

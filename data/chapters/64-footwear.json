@@ -1,0 +1,249 @@
+{
+  "chapter": 64,
+  "title": "Footwear, gaiters and the like; parts of such articles",
+  "notes": "This chapter covers footwear of all types. Classification depends primarily on the material of the outer sole and the upper. Waterproof footwear (heading 6401) requires that neither the sole nor the upper have any stitching, riveting, nailing or similar assembly that would allow water penetration.",
+  "headings": [
+    {
+      "code": "6401",
+      "description": "Waterproof footwear with outer soles and uppers of rubber or of plastics, the uppers of which are neither fixed to the sole nor assembled by stitching, riveting, nailing, screwing, plugging or similar processes",
+      "level": "heading",
+      "children": [
+        {
+          "code": "6401.10",
+          "description": "Footwear incorporating a protective metal toe-cap",
+          "level": "subheading",
+          "keywords": ["waterproof", "rubber boots", "safety boots", "steel toe", "metal toe-cap", "wellington", "gumboots"],
+          "commonGarments": ["steel-toe rubber boots", "safety wellington boots"],
+          "notes": null
+        },
+        {
+          "code": "6401.92",
+          "description": "Other — covering the ankle but not covering the knee",
+          "level": "subheading",
+          "keywords": ["waterproof", "rubber boots", "rain boots", "ankle boots", "wellington"],
+          "commonGarments": ["ankle-height rain boots", "short wellington boots"],
+          "notes": null
+        },
+        {
+          "code": "6401.99",
+          "description": "Other — other",
+          "level": "subheading",
+          "keywords": ["waterproof", "rubber boots", "rain boots", "knee boots", "wellington", "waders", "galoshes"],
+          "commonGarments": ["knee-high rain boots", "rubber waders", "galoshes"],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "code": "6402",
+      "description": "Other footwear with outer soles and uppers of rubber or plastics",
+      "level": "heading",
+      "children": [
+        {
+          "code": "6402.12",
+          "description": "Ski boots, cross-country ski footwear and snowboard boots",
+          "level": "subheading",
+          "keywords": ["ski boots", "snowboard boots", "cross-country ski", "winter sport", "plastics"],
+          "commonGarments": ["ski boots", "snowboard boots"],
+          "notes": null
+        },
+        {
+          "code": "6402.19",
+          "description": "Other sports footwear",
+          "level": "subheading",
+          "keywords": ["sports shoes", "athletic shoes", "cleats", "football boots", "rugby boots", "rubber", "plastics"],
+          "commonGarments": ["rubber cleats", "moulded-sole football boots"],
+          "notes": "Sports footwear with spikes, cleats, bars or the like"
+        },
+        {
+          "code": "6402.20",
+          "description": "Footwear with upper straps or thongs assembled to the sole by means of plugs",
+          "level": "subheading",
+          "keywords": ["flip flops", "thongs", "sandals", "slides", "rubber", "plastics"],
+          "commonGarments": ["flip flops", "rubber slides", "plastic thong sandals"],
+          "notes": null
+        },
+        {
+          "code": "6402.91",
+          "description": "Other — covering the ankle",
+          "level": "subheading",
+          "keywords": ["boots", "ankle boots", "rubber", "plastics", "EVA"],
+          "commonGarments": ["plastic ankle boots", "EVA boots"],
+          "notes": null
+        },
+        {
+          "code": "6402.99",
+          "description": "Other — other",
+          "level": "subheading",
+          "keywords": ["shoes", "sandals", "clogs", "slippers", "rubber", "plastics", "jelly shoes", "crocs"],
+          "commonGarments": ["plastic clogs", "jelly shoes", "rubber sandals", "plastic slippers"],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "code": "6403",
+      "description": "Footwear with outer soles of rubber, plastics, leather or composition leather and uppers of leather",
+      "level": "heading",
+      "children": [
+        {
+          "code": "6403.12",
+          "description": "Ski boots, cross-country ski footwear and snowboard boots",
+          "level": "subheading",
+          "keywords": ["ski boots", "leather", "snowboard boots"],
+          "commonGarments": ["leather ski boots"],
+          "notes": null
+        },
+        {
+          "code": "6403.19",
+          "description": "Other sports footwear",
+          "level": "subheading",
+          "keywords": ["sports shoes", "athletic shoes", "football boots", "golf shoes", "leather upper"],
+          "commonGarments": ["leather football boots", "leather golf shoes"],
+          "notes": null
+        },
+        {
+          "code": "6403.20",
+          "description": "Footwear with outer soles of leather, and uppers which consist of leather straps across the instep and around the big toe",
+          "level": "subheading",
+          "keywords": ["sandals", "leather sandals", "thong sandals", "strappy sandals"],
+          "commonGarments": ["leather thong sandals", "leather strap sandals"],
+          "notes": null
+        },
+        {
+          "code": "6403.40",
+          "description": "Other footwear, incorporating a protective metal toe-cap",
+          "level": "subheading",
+          "keywords": ["safety boots", "steel toe", "work boots", "leather", "protective"],
+          "commonGarments": ["leather safety boots", "steel-toe work boots"],
+          "notes": null
+        },
+        {
+          "code": "6403.51",
+          "description": "Other footwear with outer soles of leather — covering the ankle",
+          "level": "subheading",
+          "keywords": ["boots", "ankle boots", "Chelsea boots", "desert boots", "lace-up boots", "leather"],
+          "commonGarments": ["leather Chelsea boots", "leather ankle boots", "desert boots", "leather lace-up boots"],
+          "notes": null
+        },
+        {
+          "code": "6403.59",
+          "description": "Other footwear with outer soles of leather — other",
+          "level": "subheading",
+          "keywords": ["shoes", "dress shoes", "oxford", "derby", "loafers", "brogues", "moccasins", "leather"],
+          "commonGarments": ["leather oxford shoes", "leather loafers", "leather brogues", "leather moccasins"],
+          "notes": null
+        },
+        {
+          "code": "6403.91",
+          "description": "Other footwear — covering the ankle",
+          "level": "subheading",
+          "keywords": ["boots", "ankle boots", "leather upper", "rubber sole"],
+          "commonGarments": ["leather boots with rubber sole", "hiking boots"],
+          "notes": "Leather upper with rubber or plastics outer sole"
+        },
+        {
+          "code": "6403.99",
+          "description": "Other footwear — other",
+          "level": "subheading",
+          "keywords": ["shoes", "dress shoes", "pumps", "heels", "flats", "leather upper", "rubber sole"],
+          "commonGarments": ["leather dress shoes", "leather pumps", "leather flats", "leather sandals"],
+          "notes": "Leather upper with rubber or plastics outer sole. Most common heading for everyday leather shoes."
+        }
+      ]
+    },
+    {
+      "code": "6404",
+      "description": "Footwear with outer soles of rubber, plastics, leather or composition leather and uppers of textile materials",
+      "level": "heading",
+      "children": [
+        {
+          "code": "6404.11",
+          "description": "Sports footwear; tennis shoes, basketball shoes, gym shoes, training shoes and the like",
+          "level": "subheading",
+          "keywords": ["sneakers", "trainers", "running shoes", "tennis shoes", "basketball shoes", "gym shoes", "athletic shoes", "canvas", "textile upper"],
+          "commonGarments": ["canvas sneakers", "running shoes", "basketball shoes", "training shoes"],
+          "notes": "Most athletic/sports shoes with fabric or mesh uppers are classified here"
+        },
+        {
+          "code": "6404.19",
+          "description": "Other footwear — other",
+          "level": "subheading",
+          "keywords": ["shoes", "espadrilles", "canvas shoes", "slippers", "textile upper", "casual shoes"],
+          "commonGarments": ["canvas slip-ons", "espadrilles", "textile slippers", "casual canvas shoes"],
+          "notes": null
+        },
+        {
+          "code": "6404.20",
+          "description": "Footwear with outer soles of leather or composition leather",
+          "level": "subheading",
+          "keywords": ["shoes", "textile upper", "leather sole", "espadrilles", "dance shoes"],
+          "commonGarments": ["espadrilles with leather sole", "ballet flats with textile upper"],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "code": "6405",
+      "description": "Other footwear",
+      "level": "heading",
+      "children": [
+        {
+          "code": "6405.10",
+          "description": "With uppers of leather or composition leather",
+          "level": "subheading",
+          "keywords": ["shoes", "sandals", "leather upper", "wood sole", "cork sole"],
+          "commonGarments": ["leather sandals with wood sole", "clogs with leather upper"],
+          "notes": "Covers footwear with leather uppers and soles of materials other than rubber, plastics, or leather (e.g., wood, cork)"
+        },
+        {
+          "code": "6405.20",
+          "description": "With uppers of textile materials",
+          "level": "subheading",
+          "keywords": ["shoes", "slippers", "house shoes", "textile upper", "felt", "wood sole"],
+          "commonGarments": ["felt slippers", "textile house shoes"],
+          "notes": null
+        },
+        {
+          "code": "6405.90",
+          "description": "Other",
+          "level": "subheading",
+          "keywords": ["shoes", "wooden shoes", "clogs", "disposable", "paper"],
+          "commonGarments": ["wooden clogs", "disposable slippers"],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "code": "6406",
+      "description": "Parts of footwear (including uppers whether or not attached to soles other than outer soles); removable in-soles, heel cushions and similar articles; gaiters, leggings and similar articles, and parts thereof",
+      "level": "heading",
+      "children": [
+        {
+          "code": "6406.10",
+          "description": "Uppers and parts thereof, other than stiffeners",
+          "level": "subheading",
+          "keywords": ["upper", "shoe upper", "vamp", "quarter", "footwear parts"],
+          "commonGarments": ["shoe uppers", "pre-cut vamp pieces"],
+          "notes": null
+        },
+        {
+          "code": "6406.20",
+          "description": "Outer soles and heels, of rubber or plastics",
+          "level": "subheading",
+          "keywords": ["outer sole", "heel", "rubber sole", "plastics sole", "footwear parts"],
+          "commonGarments": ["rubber outer soles", "plastic heels"],
+          "notes": null
+        },
+        {
+          "code": "6406.90",
+          "description": "Other (insoles, gaiters, leggings, stiffeners, etc.)",
+          "level": "subheading",
+          "keywords": ["insole", "heel cushion", "gaiter", "legging", "spat", "stiffener", "shank", "footwear parts"],
+          "commonGarments": ["removable insoles", "heel cushions", "gaiters", "shoe trees"],
+          "notes": null
+        }
+      ]
+    }
+  ]
+}

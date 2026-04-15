@@ -1,0 +1,28 @@
+{
+  "name": "@kobolabs/apparel-hs-codes",
+  "version": "1.0.0",
+  "description": "Open database of Harmonized System (HS) tariff codes for apparel and textiles",
+  "author": "Kobo Labs Research",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kobolabsresearch/apparel-hs-codes"
+  },
+  "homepage": "https://github.com/kobolabsresearch/apparel-hs-codes",
+  "keywords": [
+    "hs-codes",
+    "tariff",
+    "customs",
+    "apparel",
+    "fashion",
+    "textile",
+    "harmonized-system",
+    "trade",
+    "import",
+    "duty"
+  ],
+  "main": "data/index.json",
+  "files": [
+    "data/"
+  ]
+}

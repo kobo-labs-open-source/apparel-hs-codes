@@ -1,0 +1,454 @@
+{
+  "chapter": 63,
+  "title": "Other made up textile articles; sets; worn clothing and worn textile articles; rags",
+  "notes": "This chapter covers made-up textile articles not classified as garments (Chapters 61-62), including household textiles, bags, tarpaulins, and worn clothing.",
+  "headings": [
+    {
+      "code": "6301",
+      "description": "Blankets and travelling rugs",
+      "level": "heading",
+      "children": [
+        {
+          "code": "6301.20",
+          "description": "Blankets (other than electric blankets) and travelling rugs, of wool or fine animal hair",
+          "level": "subheading",
+          "keywords": ["blanket", "travelling rug", "throw", "wool", "cashmere"],
+          "commonGarments": ["wool blanket", "cashmere throw", "wool travelling rug"],
+          "notes": null
+        },
+        {
+          "code": "6301.30",
+          "description": "Blankets (other than electric blankets) and travelling rugs, of cotton",
+          "level": "subheading",
+          "keywords": ["blanket", "travelling rug", "throw", "cotton"],
+          "commonGarments": ["cotton blanket", "cotton throw"],
+          "notes": null
+        },
+        {
+          "code": "6301.40",
+          "description": "Blankets (other than electric blankets) and travelling rugs, of synthetic fibres",
+          "level": "subheading",
+          "keywords": ["blanket", "travelling rug", "throw", "fleece", "polyester", "acrylic"],
+          "commonGarments": ["fleece blanket", "polyester throw", "acrylic blanket"],
+          "notes": null
+        },
+        {
+          "code": "6301.90",
+          "description": "Other blankets and travelling rugs",
+          "level": "subheading",
+          "keywords": ["blanket", "travelling rug", "throw", "silk", "linen"],
+          "commonGarments": ["silk throw", "linen blanket"],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "code": "6302",
+      "description": "Bed linen, table linen, toilet linen and kitchen linen",
+      "level": "heading",
+      "children": [
+        {
+          "code": "6302.10",
+          "description": "Bed linen, knitted or crocheted",
+          "level": "subheading",
+          "keywords": ["bed linen", "sheets", "pillowcases", "duvet cover", "knitted"],
+          "commonGarments": ["jersey knit sheets", "knitted pillowcase"],
+          "notes": null
+        },
+        {
+          "code": "6302.21",
+          "description": "Other bed linen, printed — of cotton",
+          "level": "subheading",
+          "keywords": ["bed linen", "sheets", "pillowcases", "duvet cover", "bed set", "printed", "cotton"],
+          "commonGarments": ["printed cotton sheet set", "cotton duvet cover"],
+          "notes": null
+        },
+        {
+          "code": "6302.22",
+          "description": "Other bed linen, printed — of man-made fibres",
+          "level": "subheading",
+          "keywords": ["bed linen", "sheets", "pillowcases", "duvet cover", "printed", "polyester", "microfibre"],
+          "commonGarments": ["microfibre sheet set", "polyester duvet cover"],
+          "notes": null
+        },
+        {
+          "code": "6302.29",
+          "description": "Other bed linen, printed — of other textile materials",
+          "level": "subheading",
+          "keywords": ["bed linen", "sheets", "pillowcases", "printed", "silk", "linen"],
+          "commonGarments": ["silk pillowcase", "printed linen sheets"],
+          "notes": null
+        },
+        {
+          "code": "6302.31",
+          "description": "Other bed linen — of cotton",
+          "level": "subheading",
+          "keywords": ["bed linen", "sheets", "pillowcases", "duvet cover", "cotton", "percale", "sateen"],
+          "commonGarments": ["cotton percale sheets", "cotton sateen duvet cover"],
+          "notes": null
+        },
+        {
+          "code": "6302.32",
+          "description": "Other bed linen — of man-made fibres",
+          "level": "subheading",
+          "keywords": ["bed linen", "sheets", "pillowcases", "polyester", "microfibre"],
+          "commonGarments": ["polyester sheet set"],
+          "notes": null
+        },
+        {
+          "code": "6302.39",
+          "description": "Other bed linen — of other textile materials",
+          "level": "subheading",
+          "keywords": ["bed linen", "sheets", "pillowcases", "linen", "silk", "bamboo"],
+          "commonGarments": ["linen sheet set", "silk sheets"],
+          "notes": null
+        },
+        {
+          "code": "6302.40",
+          "description": "Table linen, knitted or crocheted",
+          "level": "subheading",
+          "keywords": ["table linen", "tablecloth", "napkin", "placemat", "knitted"],
+          "commonGarments": ["knitted tablecloth", "crocheted placemat"],
+          "notes": null
+        },
+        {
+          "code": "6302.51",
+          "description": "Other table linen — of cotton",
+          "level": "subheading",
+          "keywords": ["table linen", "tablecloth", "napkin", "placemat", "table runner", "cotton"],
+          "commonGarments": ["cotton tablecloth", "cotton napkins"],
+          "notes": null
+        },
+        {
+          "code": "6302.53",
+          "description": "Other table linen — of man-made fibres",
+          "level": "subheading",
+          "keywords": ["table linen", "tablecloth", "napkin", "polyester"],
+          "commonGarments": ["polyester tablecloth"],
+          "notes": null
+        },
+        {
+          "code": "6302.59",
+          "description": "Other table linen — of other textile materials",
+          "level": "subheading",
+          "keywords": ["table linen", "tablecloth", "napkin", "linen", "silk"],
+          "commonGarments": ["linen tablecloth", "linen napkins"],
+          "notes": null
+        },
+        {
+          "code": "6302.60",
+          "description": "Toilet linen and kitchen linen, of terry towelling or similar terry fabrics, of cotton",
+          "level": "subheading",
+          "keywords": ["towel", "bath towel", "hand towel", "face towel", "kitchen towel", "terry", "cotton"],
+          "commonGarments": ["cotton bath towel", "cotton hand towel", "cotton face cloth"],
+          "notes": null
+        },
+        {
+          "code": "6302.91",
+          "description": "Other toilet linen and kitchen linen — of cotton",
+          "level": "subheading",
+          "keywords": ["towel", "tea towel", "dish cloth", "kitchen towel", "cotton"],
+          "commonGarments": ["cotton tea towel", "cotton dish cloth"],
+          "notes": null
+        },
+        {
+          "code": "6302.93",
+          "description": "Other toilet linen and kitchen linen — of man-made fibres",
+          "level": "subheading",
+          "keywords": ["towel", "kitchen towel", "microfibre", "polyester"],
+          "commonGarments": ["microfibre towel", "microfibre cleaning cloth"],
+          "notes": null
+        },
+        {
+          "code": "6302.99",
+          "description": "Other toilet linen and kitchen linen — of other textile materials",
+          "level": "subheading",
+          "keywords": ["towel", "tea towel", "linen", "bamboo"],
+          "commonGarments": ["linen tea towel", "bamboo towel"],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "code": "6303",
+      "description": "Curtains (including drapes) and interior blinds; curtain or bed valances",
+      "level": "heading",
+      "children": [
+        {
+          "code": "6303.12",
+          "description": "Knitted or crocheted — of synthetic fibres",
+          "level": "subheading",
+          "keywords": ["curtain", "drape", "blind", "valance", "net curtain", "synthetic", "knitted"],
+          "commonGarments": ["net curtain", "knitted sheer panel"],
+          "notes": null
+        },
+        {
+          "code": "6303.19",
+          "description": "Knitted or crocheted — of other textile materials",
+          "level": "subheading",
+          "keywords": ["curtain", "drape", "blind", "valance", "cotton", "knitted"],
+          "commonGarments": ["crocheted curtain panel"],
+          "notes": null
+        },
+        {
+          "code": "6303.91",
+          "description": "Other — of cotton",
+          "level": "subheading",
+          "keywords": ["curtain", "drape", "blind", "valance", "cotton", "woven"],
+          "commonGarments": ["cotton curtains", "cotton drapes"],
+          "notes": null
+        },
+        {
+          "code": "6303.92",
+          "description": "Other — of synthetic fibres",
+          "level": "subheading",
+          "keywords": ["curtain", "drape", "blind", "valance", "sheer", "blackout", "polyester", "woven"],
+          "commonGarments": ["polyester blackout curtains", "sheer panels"],
+          "notes": null
+        },
+        {
+          "code": "6303.99",
+          "description": "Other — of other textile materials",
+          "level": "subheading",
+          "keywords": ["curtain", "drape", "blind", "valance", "linen", "silk", "woven"],
+          "commonGarments": ["linen curtains", "silk drapes"],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "code": "6304",
+      "description": "Other furnishing articles, excluding those of heading 9404",
+      "level": "heading",
+      "children": [
+        {
+          "code": "6304.11",
+          "description": "Bedspreads — knitted or crocheted",
+          "level": "subheading",
+          "keywords": ["bedspread", "coverlet", "bed cover", "knitted"],
+          "commonGarments": ["knitted bedspread", "crocheted coverlet"],
+          "notes": null
+        },
+        {
+          "code": "6304.19",
+          "description": "Bedspreads — other",
+          "level": "subheading",
+          "keywords": ["bedspread", "coverlet", "bed cover", "quilt", "woven"],
+          "commonGarments": ["woven bedspread", "quilted coverlet"],
+          "notes": null
+        },
+        {
+          "code": "6304.91",
+          "description": "Other — knitted or crocheted",
+          "level": "subheading",
+          "keywords": ["cushion cover", "pillow cover", "furniture cover", "knitted"],
+          "commonGarments": ["knitted cushion cover"],
+          "notes": null
+        },
+        {
+          "code": "6304.92",
+          "description": "Other — not knitted or crocheted, of cotton",
+          "level": "subheading",
+          "keywords": ["cushion cover", "pillow cover", "furniture cover", "cotton", "woven"],
+          "commonGarments": ["cotton cushion cover", "cotton throw pillow cover"],
+          "notes": null
+        },
+        {
+          "code": "6304.93",
+          "description": "Other — not knitted or crocheted, of synthetic fibres",
+          "level": "subheading",
+          "keywords": ["cushion cover", "pillow cover", "furniture cover", "polyester", "woven"],
+          "commonGarments": ["polyester cushion cover"],
+          "notes": null
+        },
+        {
+          "code": "6304.99",
+          "description": "Other — not knitted or crocheted, of other textile materials",
+          "level": "subheading",
+          "keywords": ["cushion cover", "pillow cover", "furniture cover", "silk", "linen", "woven"],
+          "commonGarments": ["silk cushion cover", "linen pillow cover"],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "code": "6305",
+      "description": "Sacks and bags, of a kind used for the packing of goods",
+      "level": "heading",
+      "children": [
+        {
+          "code": "6305.10",
+          "description": "Of jute or of other textile bast fibres of heading 5303",
+          "level": "subheading",
+          "keywords": ["sack", "bag", "jute", "hessian", "burlap", "packing"],
+          "commonGarments": ["jute sack", "burlap bag"],
+          "notes": null
+        },
+        {
+          "code": "6305.20",
+          "description": "Of cotton",
+          "level": "subheading",
+          "keywords": ["sack", "bag", "cotton", "canvas", "packing"],
+          "commonGarments": ["cotton canvas bag", "cotton sack"],
+          "notes": null
+        },
+        {
+          "code": "6305.33",
+          "description": "Of man-made textile materials — polyethylene or polypropylene strip or the like",
+          "level": "subheading",
+          "keywords": ["sack", "bag", "woven poly", "polypropylene", "packaging"],
+          "commonGarments": ["woven polypropylene sack"],
+          "notes": null
+        },
+        {
+          "code": "6305.39",
+          "description": "Of man-made textile materials — other",
+          "level": "subheading",
+          "keywords": ["sack", "bag", "polyester", "nylon", "packaging"],
+          "commonGarments": ["polyester packing bag"],
+          "notes": null
+        },
+        {
+          "code": "6305.90",
+          "description": "Of other textile materials",
+          "level": "subheading",
+          "keywords": ["sack", "bag", "linen", "hemp", "packing"],
+          "commonGarments": ["hemp sack"],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "code": "6306",
+      "description": "Tarpaulins, awnings and sunblinds; tents; sails for boats, sailboards or landcraft; camping goods",
+      "level": "heading",
+      "children": [
+        {
+          "code": "6306.12",
+          "description": "Tarpaulins, awnings and sunblinds — of synthetic fibres",
+          "level": "subheading",
+          "keywords": ["tarpaulin", "awning", "sunblind", "canopy", "polyester", "nylon"],
+          "commonGarments": ["polyester awning", "nylon tarpaulin"],
+          "notes": null
+        },
+        {
+          "code": "6306.19",
+          "description": "Tarpaulins, awnings and sunblinds — of other textile materials",
+          "level": "subheading",
+          "keywords": ["tarpaulin", "awning", "sunblind", "canvas", "cotton"],
+          "commonGarments": ["canvas tarpaulin", "cotton awning"],
+          "notes": null
+        },
+        {
+          "code": "6306.22",
+          "description": "Tents — of synthetic fibres",
+          "level": "subheading",
+          "keywords": ["tent", "camping tent", "nylon", "polyester"],
+          "commonGarments": ["nylon camping tent", "polyester tent"],
+          "notes": null
+        },
+        {
+          "code": "6306.29",
+          "description": "Tents — of other textile materials",
+          "level": "subheading",
+          "keywords": ["tent", "canvas tent", "cotton"],
+          "commonGarments": ["canvas tent", "bell tent"],
+          "notes": null
+        },
+        {
+          "code": "6306.30",
+          "description": "Sails",
+          "level": "subheading",
+          "keywords": ["sail", "boat sail", "sailboard", "yacht", "nylon", "dacron"],
+          "commonGarments": ["yacht sail", "sailboard sail"],
+          "notes": null
+        },
+        {
+          "code": "6306.40",
+          "description": "Pneumatic mattresses",
+          "level": "subheading",
+          "keywords": ["air mattress", "pneumatic mattress", "inflatable", "camping"],
+          "commonGarments": ["inflatable air mattress"],
+          "notes": null
+        },
+        {
+          "code": "6306.90",
+          "description": "Other (sleeping bags, camping articles)",
+          "level": "subheading",
+          "keywords": ["sleeping bag", "camping", "ground sheet", "bivouac"],
+          "commonGarments": ["sleeping bag", "camping ground sheet"],
+          "notes": null
+        }
+      ]
+    },
+    {
+      "code": "6307",
+      "description": "Other made up articles, including dress patterns",
+      "level": "heading",
+      "children": [
+        {
+          "code": "6307.10",
+          "description": "Floor cloths, dish cloths, dusters and similar cleaning cloths",
+          "level": "subheading",
+          "keywords": ["floor cloth", "dish cloth", "duster", "cleaning cloth", "mop cloth"],
+          "commonGarments": ["microfibre cleaning cloth", "cotton dish cloth", "floor mop pad"],
+          "notes": null
+        },
+        {
+          "code": "6307.20",
+          "description": "Life jackets and life belts",
+          "level": "subheading",
+          "keywords": ["life jacket", "life belt", "life vest", "personal flotation device", "PFD"],
+          "commonGarments": ["life jacket", "buoyancy vest"],
+          "notes": null
+        },
+        {
+          "code": "6307.90",
+          "description": "Other",
+          "level": "subheading",
+          "keywords": ["face mask", "dust mask", "pet clothing", "flags", "bunting", "shoe bag", "garment bag", "dress pattern"],
+          "commonGarments": ["textile face mask", "garment bag", "shoe bag", "pet clothing", "tote bag"],
+          "notes": "Catch-all for textile articles not elsewhere classified. Includes textile face masks, pet clothing, tote bags."
+        }
+      ]
+    },
+    {
+      "code": "6309",
+      "description": "Worn clothing and other worn articles",
+      "level": "heading",
+      "children": [
+        {
+          "code": "6309.00",
+          "description": "Worn clothing and other worn textile articles",
+          "level": "subheading",
+          "keywords": ["worn clothing", "used clothing", "secondhand", "second-hand", "vintage", "thrift"],
+          "commonGarments": ["used clothing bales", "secondhand garments"],
+          "notes": "Covers all used/secondhand clothing and textile articles. Significant in the global used clothing trade."
+        }
+      ]
+    },
+    {
+      "code": "6310",
+      "description": "Used or new rags, scrap twine, cordage, rope and cables and worn out articles of twine, cordage, rope or cables, of textile materials",
+      "level": "heading",
+      "children": [
+        {
+          "code": "6310.10",
+          "description": "Sorted",
+          "level": "subheading",
+          "keywords": ["rags", "scrap", "textile waste", "sorted", "wiping rags"],
+          "commonGarments": ["sorted wiping rags", "sorted textile scrap"],
+          "notes": null
+        },
+        {
+          "code": "6310.90",
+          "description": "Other (unsorted)",
+          "level": "subheading",
+          "keywords": ["rags", "scrap", "textile waste", "unsorted"],
+          "commonGarments": ["unsorted textile waste", "mixed rags"],
+          "notes": null
+        }
+      ]
+    }
+  ]
+}
